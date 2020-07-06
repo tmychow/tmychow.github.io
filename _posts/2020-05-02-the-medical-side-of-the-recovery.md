@@ -2,6 +2,7 @@
 layout: post
 title: "The Medical Side of the Recovery"
 date: 2020-05-02
+tag: coronavirus
 ---
 
 Towards the end of March, I wrote about the immediate economic circumstances caused by COVID-19 - where we stood and what we needed to do. Much of this short-run work has been done by fiscal leaders and central bankers. What isn’t yet clear in the United Staes and the United Kingdom is the medium-run - how we envision our exit strategy from the medical side of the crisis. In the USA,  significant number of states have begun reopening, with Florida, South Carolina and Georgia all opening up parks and beaches. A similar pushback towards the lockdown has begun appearing across the UK - even though public health experts and epidemiologists broadly agree that testing needs to be increased by a significant order of magnitude before that can occur. With the new coronavirus testing blueprint from the Trump administration offering little beyond calling on states to develop their own plans, what are the options available?
