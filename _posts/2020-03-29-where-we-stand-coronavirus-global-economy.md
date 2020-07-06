@@ -2,6 +2,7 @@
 layout: post
 title: "Where We Stand: Coronavirus and the Global Economy"
 date: 2020-03-29
+tags: coronavirus economics
 ---
 
 The coronavirus is both a public health and economic crisis. The fact that it is acting as a demand-side and supply-side shock, coupled with the medical solution being antithetical to economic recovery in the short-run, means that its severity is difficult to be underestimated. It also means that there are policy implications on how governments around the world ought to be dealing with it.
