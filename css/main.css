@@ -20,17 +20,18 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 28px;
+    font-size: 24px;
     font-family: Roboto, Montserrat, Arial, monospace;
     font-weight: normal;
+    color: #367DA2;
 }
 h4 {
-    font-size: 20px;
-    font-family: 'Adobe Jensen Pro', 'CMU Serif', Serif;
+    font-size: 18px;
+    font-family: Roboto, Montserrat, Arial, monospace;
 }
 p {
     font-size: 14px;
-    font-family: 'Adobe Jensen Pro', 'CMU Serif', Serif;
+    font-family: Roboto, Montserrat, Arial, monospace;
     line-height: 1.4em;
     color: #333;
 }
@@ -63,7 +64,7 @@ ul.posts li {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
-  font-family: Inconsolata, Courier, monospace;
+  font-family: Roboto, Montserrat, Arial, monospace;
   color: #367DA2;
   display: block;
   text-align: center;
