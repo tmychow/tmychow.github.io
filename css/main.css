@@ -23,7 +23,7 @@ a:hover {
 }
 h1 {
     font-size: 2.5em;
-    font-family: Roboto, Montserrat, Sans-Serif;
+    font-family: Roboto, Montserrat, monospace;
     text-align: center;
 }
 h4 {
@@ -73,5 +73,5 @@ ul.posts li {
 
 .main {
   margin-left: 160px; /* Same as the width of the sidebar */
-  padding: 0px 15px;
+  padding-left: 10px;
 }
