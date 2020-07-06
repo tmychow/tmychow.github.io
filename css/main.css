@@ -1,6 +1,5 @@
 body {
-    margin: 30px auto;
-    width: 70%;
+    width: 80%;
     background-color: hsl(35, 36%, 95%);
 }
 nav ul, footer ul {
@@ -70,5 +69,9 @@ ul.posts li {
   color: #367DA2;
   display: block;
   text-align: center;
+}
+
+.main {
+  width: 70%
 }
 
