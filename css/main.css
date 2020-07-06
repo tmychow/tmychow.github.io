@@ -61,11 +61,11 @@ footer {
 .sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 14px;
   font-family: Roboto, Montserrat, Arial, monospace;
   color: #367DA2;
   display: block;
-  text-align: center;
+  text-align: left;
 }
 /* Style page content */
 .container {
