@@ -21,11 +21,8 @@ a:hover {
 }
 .sidenav .button {
     background-color: #367DA2;
-    padding: 8px 10px;
-}
-.sidenav .button a {
-    color: white;
-}    
+    padding: 4px 5px;
+}   
 h1 {
     font-size: 24px;
     font-family: Roboto, Montserrat, Arial, monospace;
