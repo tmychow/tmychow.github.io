@@ -5,7 +5,7 @@ date: 2020-06-02
 tag: miscellaneous
 ---
 
-As #blackouttuesday has become a widespread phenomenon across Instagram, it is worth considering things we can do beyond simply virtue signalling to make real change.
+As \#blackouttuesday has become a widespread phenomenon across Instagram, it is worth considering things we can do beyond simply virtue signalling to make real change.
 
 The first is signing petitions to pressure for change.
 
