@@ -63,6 +63,7 @@ footer {
 
 /* Style page content */
 .container {
+  width: 600px;
   margin-left: 160px; /* Same as the width of the sidebar */
   padding: 0px 10px;
 }
