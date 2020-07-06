@@ -63,6 +63,7 @@ ul.posts li {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
+  font-family: Inconsolata, Courier, monospace;
   color: #367DA2;
   display: block;
   text-align: center;
