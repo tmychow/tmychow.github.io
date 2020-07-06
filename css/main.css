@@ -40,16 +40,6 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 14px;
-    font-family: Roboto, Montserrat, Arial, monospace;
-}
-
-ul.posts li {
-    list-style: none;
-}
-
 .sidenav {
   width: 160px; /* Set the width of the sidebar */
   position: fixed; /* Fixed Sidebar (stay in place on scroll) */
