@@ -19,11 +19,11 @@ a {
 a:hover {
     text-decoration: underline;
 }
-.sidenav .button {
+.sidenav .a .button {
     background-color: #367DA2;
     padding: 8px 10px;
 }
-.sidenav .button a {
+.sidenav .a .button a {
     color: white;
 }    
 h1 {
