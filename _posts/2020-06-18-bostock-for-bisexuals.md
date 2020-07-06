@@ -2,6 +2,7 @@
 layout: post
 title: "Bostock for Bisexuals?"
 date: 2020-06-18
+tag: miscellaneous
 ---
 
 Decided a mere two days ago, Bostock v. Clayton County, Georgia is one of the most important Supreme Court judgements for LGBT rights in the USA - it holds that "an employer who fires an individual merely for being gay or transgender violates Title VII" of the Civil Rights Act of 1964. For those unfamiliar, here's an [explainer](https://www.youtube.com/watch?v=XmjqFlYDL0M) of the case I made. In brief, the majority opinion suggests that by firing a gay employee, what you're really saying is that you're fine with a female employee to be attracted to men but not for a male employee to be attracted to men. That means you are discriminating based on sex, which is a protected characteristic under Title VII. Likewise, by firing a transgender employee, what you're really saying is that you're fine with a female-born employee to identify as female now but not for a male-born employee to identify as male now. 
