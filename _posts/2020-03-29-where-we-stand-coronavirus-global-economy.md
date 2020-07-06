@@ -10,8 +10,8 @@ The coronavirus is both a public health and economic crisis. The fact that it is
 I think this is best illustrated by considering how the initial shocks in output will translate into longer-run second-order effects that slow recovery. From there, we can better understand which policies are more effective and which are less (hint: this isn't your run-of-the-mill dip in the business cycle).
 
 
-
 **Initial Shocks**
+
 The coronavirus pandemic has first-order implications on demand and supply. On the supply side, workers being stuck at home from self-quarantine and being unable to commute to work due to transport shutdowns represents a huge reduction in the productive capacity of the economy.
 
 On the demand side, as ordinary citizens start staying at home, there will be fewer customers for various businesses, most notably for shops, restaurants, airlines and various tourism-related businesses - this can be seen in the following:
@@ -23,8 +23,8 @@ What this means is that all of these people are going to be saving more and spen
 To put that into context, GDP fell by 4.2% in the Great Recession and 750,000 people lost their jobs every month. This would suggest an economic collapse beyond anything that anyone alive will remember. And worryingly, that is just the tip of the iceberg.
 
 
-
 **Second-order Effects**
+
 The direct supply and demand-side impacts don’t come close to taking into account ways this could get much worse - via government policy exacerbating the slump and via second order impacts that are likely to persist.
 
 The former is simply an observation that governments will and are already mandating lockdowns (see: over 20% of the US population is under lockdown) and border controls (see: US-Canada, US- Mexico, Denmark etc). These will only serve to aggravate the existing collapse by further reducing consumer spending, and are likely to only become stricter as the coronavirus hits its peak in the western world.
@@ -46,8 +46,8 @@ Worryingly, this is not isolated to certain industry, with around 50% of corpora
 This financial risk is an international one - when there is panic, money usually flows into more stable countries, fleeing developing ones. In the first 8 weeks of the coronavirus panic, more than $55 billion has flowed out of emerging economies, double the leakage that was seen in 2008. This seriously compromises the ability for developing countries, with small tax bases and weak public finances that depend on foreign capital, from engaging in extensive government and private spending
 
 
-
 **Where We Stand**
+
 Perhaps the clearest sign of the economy being structurally compromised is by looking at leaders and markets. Deficit hawks across the globe are willing to throw their beliefs aside, with German leaders acquiescing to a €356 billion borrowing program, because they recognise the potential for catastrophe.
 
 Markets are sending a similar signal - one of panic. Under normal conditions, US Treasury bonds in- crease in value when other asset prices fall, because they are seen as the safest possible assets one flees to. The fact that US sovereign debt fell in value, even if temporarily, suggests that people are sufficiently doubtful they’re turning to cash, a worrying sign of confidence in the state of the global economy.
@@ -59,6 +59,7 @@ To add to that, there are undoubtedly ways to mitigate the economic dangers, and
 
 
 **The Monetary Response and its Limits**
+
 On the monetary side, central banks are doing their utmost to cushion the collapse and prevent the financial system from becoming a problem in its own right. The Federal Reserve and the Bank of England both slashed interest rates to near 0, with the BoE hitting the lowest base rate in its 325 year history. This has been further bolstered in the UK by the BoE lowering capital requirements among banks, allowing them to lend out even more money.
 
 They have also begun engaging in bond purchases and increased access to short-term loans, with the BoE offering £100 billion worth of cheap loans to companies and the Fed providing significant backing to repo markets and commercial paper markets. The former is where Treasury bonds are bought and where banks derive their day-to-day funding, while the latter includes money market mutual funds that provide 3 month loans to businesses. These are two key aspects of the financial system that keep banks and businesses well-funded.
@@ -72,8 +73,8 @@ Combined together, these steps are crucial in preventing a financial panic and e
 Furthermore, the Dodd-Frank Act means that the Federal Reserve is no longer able to bail out individual companies outside the banking sector as it did in 2008 with AIG. Instead, it would need the Treasury’s approval for these loans, making it likely that fiscal policy will take the forefront if it comes to supporting insolvent airline companies. Although all of this liquidity provision will help cash-strapped businesses survive the next few months, its constraints mean that fiscal injections of capital will indubitably be needed to provide the thrust of the support and give them time to get back on their feet to reignite the economy.
 
 
-
 **The Fiscal Response and its Limits**
+
 In the UK, Chancellor Sunak announced that the UK government is going to pay 80% of wages for those who have been furloughed due to the coronavirus for up to £2,500 a month for at least three months. This has since been extended to self-employed individuals. That is equivalent to paying up to the median wage, representing a significant injection. Alongside this he has offered a £330 billion package of government loans to firms hurt by the coronavirus and cash grants of varying sizes to 700,000 small businesses.
 
 Perhaps most importantly, he has been clear in his determination, saying that he has the legal authority to “offer whatever further financial support necessary”. That represents a huge commitment towards defending the economy that undoubtedly renewed confidence among business owners.
@@ -93,6 +94,6 @@ The supply-side nature of the crisis is similarly difficult to deal with, since 
 In this vein, fiscal responses will need to be targeted towards keeping families afloat while a quarantine is in place - with over 25% of the workforce not covered by sick pay, the ability for many workers to return to work and thus spend their income depends on dealing with the medical threat alongside financial support. That means further fiscal plans to build up a comprehensive short-term safety net and increase healthcare provision.
 
 
-
 **The Outlook Going Forwards**
+
 The best case scenario is one where the market is forced to deleverage, and where the crisis proves to be a useful correction for a bloated economy. However, this requires an incredible amount of collective action - not only to ensure that a credit crunch doesn’t occur, but also to protect ordinary citizens from the potential downsides of this adjustment as they stay at home. It is incredibly unclear if central banks have the capacity of doing the former and if governments have the political will to do the latter. The worst case scenario looks like an economic calamity beyond the scale of even 2008, and one that lasts a long time because it is coupled with a medical crisis stemming from insufficient access to coronavirus test kits, respirators and hospital beds. Regardless of which occurs, one thing is certain - the cracks and complacency in our medical and financial systems are becoming incredibly apparent, and life post-coronavirus will not look the same as beforehand.
