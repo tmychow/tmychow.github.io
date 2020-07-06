@@ -34,4 +34,4 @@ RCTs are an important tool within the toolkits of economists and social scientis
 
 **TC: I'd like to thank you for giving up your time to talk about development economics. It has been incredibly insightful to learn about some of the specific microeconomic studies you have done and how they shape current policy prescriptions.**
 
-Thank you very much.
+It was a pleasure.
