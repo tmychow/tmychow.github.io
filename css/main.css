@@ -21,10 +21,11 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Adobe Jensen Pro', 'CMU Serif', Serif;
+    font-family: Roboto, Montserrat, Sans-Serif;
 }
 p {
     font-size: 1.5em;
+    font-family:'Adobe Jensen Pro', 'CMU Serif', Serif;
     line-height: 1.4em;
     color: #333;
 }
