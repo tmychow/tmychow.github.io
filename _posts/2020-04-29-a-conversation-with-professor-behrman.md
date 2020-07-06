@@ -2,6 +2,7 @@
 layout: post
 title: "A Conversation with Professor Behrman on Economic Development"
 date: 2020-04-29
+tags: economics interview
 ---
 
 Professor Jere Behrman is the William R. Kenan Jr. Professor of Economics at the University of Pennsylvania. His work on the role of human capital in development has been incredibly influential, having served as the director of the Center for Analysis of Developing Economies in the past. It was a privilege and pleasure to speak to him about his research and its policy implications. (The interview is edited for clarity and brevity.)
