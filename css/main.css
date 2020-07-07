@@ -68,7 +68,7 @@ footer {
   left: 0;
   background-color: hsl(35%, 36%, 95%);
   overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 10px;
+  padding-top: 22px;
   margin-left: 60px;
 }
 .sidenav > a {
