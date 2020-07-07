@@ -26,10 +26,13 @@ a:hover {
     display: inline-block;
     text-align: center;
     border-radius: 4px;
-}   
+} 
+.sidenav .p {
+    font-size:11px;
+}
 h1 {
     font-size: 24px;
-    font-family: Roboto, Montserrat, Arial, monospace;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Montserrat, Arial, monospace;
     font-weight: normal;
     color: #367DA2;
 }
