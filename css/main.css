@@ -1,5 +1,5 @@
 body {
-    width: 800px;
+    width: 950px;
     background-color: hsl(35%, 36%, 95%);
     margin-left: 60px;
 }
@@ -78,7 +78,7 @@ footer {
 }
 /* Style page content */
 .container {
-  width: 600px;
+  width: 750px;
   margin-left: 160px; /* Same as the width of the sidebar */
   padding: 0px 10px;
 }
