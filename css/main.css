@@ -1,6 +1,7 @@
 body {
     width: 800px;
     background-color: hsl(35%, 36%, 95%);
+    margin-left: 60px;
 }
 nav ul, footer ul {
     font-family: Inconsolata, Courier, monospace;
