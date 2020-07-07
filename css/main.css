@@ -23,6 +23,7 @@ a:hover {
     background-color: #367DA2;
     padding: 4px 5px;
     display: inline-block;
+    text-align: center;
 }   
 h1 {
     font-size: 24px;
