@@ -71,7 +71,7 @@ footer {
   padding-top: 10px;
   margin-left: 60px;
 }
-.sidenav a {
+.sidenav > a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 14px;
