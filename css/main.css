@@ -27,7 +27,7 @@ a:hover {
     text-align: center;
     border-radius: 4px;
 } 
-.sidenav .p {
+.sidenav p {
     font-size:11px;
 }
 h1 {
@@ -38,21 +38,21 @@ h1 {
 }
 h4 {
     font-size: 18px;
-    font-family: Roboto, Montserrat, Arial, monospace;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Montserrat, Arial, monospace;
 }
 p {
     font-size: 14px;
-    font-family: Roboto, Montserrat, Arial, monospace;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Montserrat, Arial, monospace;
     line-height: 1.4em;
     color: #333;
 }
 ul {
     font-size: 14px;
-    font-family: Roboto, Montserrat, Arial, monospace;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Montserrat, Arial, monospace;
 }
 ol {
     font-size: 14px;
-    font-family: Roboto, Montserrat, Arial, monospace;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Montserrat, Arial, monospace;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -74,7 +74,7 @@ footer {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 14px;
-  font-family: Roboto, Montserrat, Arial, monospace;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Montserrat, Arial, monospace;
   color: #367DA2;
   display: block;
   text-align: left;
