@@ -22,7 +22,8 @@ a:hover {
 }
 .sidenav .button {
     background-color: #367DA2;
-    padding: 4px 5px;
+    padding: 4px 5px 4px 5px;
+    margin: 0px 0px 0px 11px;
     display: inline-block;
     text-align: center;
     border-radius: 4px;
