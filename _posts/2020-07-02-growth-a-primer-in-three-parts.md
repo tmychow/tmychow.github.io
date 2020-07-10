@@ -7,7 +7,7 @@ tag: economics
 
 In these turbulent and uncertain times, it is easy to focus only on the violent economic fluctuations within the business cycle. But there is also a bigger picture - the longer-run increase in economic output across history. Measuring growth is important, because it defines the standard of living available to humanity.
 
-> Once one starts to think about [questions of growth], it is hard to think about anything else. \
+> Once one starts to think about [questions of growth], it is hard to think about anything else. <br>
 > \- Robert Lucas (1988)
 
 **What is the history of economic growth?**
