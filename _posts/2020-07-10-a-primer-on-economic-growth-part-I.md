@@ -160,7 +160,7 @@ One useful example to illustrate their importance is the comparison between Nort
 
 [^Z]: [World Development Indicators 2005](https://openknowledge.worldbank.org/handle/10986/12425)
 
-![Corruption](Corruption.png)
+![Corruption](/assets/corruptionandgrowth.png)
 
 > But we can't just snap out fingers and get good incentives and governance. What are the root causes behind them forming?
 
