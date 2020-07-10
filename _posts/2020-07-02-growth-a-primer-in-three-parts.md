@@ -20,11 +20,11 @@ Secondly, the Industrial Revolution changed the possibilities for material consu
 
 Thirdly, prosperity has not arrived to all societies. Some countries have since converged to those modern economies, while others remain well below pre-industrial norms. This is most pronounced in sub-Saharan Africa. This Great Divergence is so massive that the gap in incomes between countries is on the order of 50 to 1.
 
-![History](/assets/historyofgrowth.png)
+![History](/assets/historyofgrowth.png){:width="650px"}
 
 > What did the Malthusian trap persist for so long? Why did the Industrial Revolution allow an escape? Why was there a Great Divergence?
 
-In [Part I]({% post_url 2020-07-10-a-primer-on-economic-growth-part-I %}), we will consider three main paradigms about economic growth: Malthusian, neoclassical and endogenous. These models show the role of the factors of production in driving economic growth. They also demonstrate that the accumulation of these factors alone cannot be the drivers of economic growth in the long-run. Instead, the long-run driver of economic growth is increasing productivity - via technological progression and improvements in resource allocation.
+In [Part I]({% post_url 2020-07-10-a-primer-on-economic-growth-part-I %}), we will look at some basic theoretical models of economic growth.
 
 In Part II, we will look at the 'big history' reasons as to why countries are able to grow their factors of production and improve their productivity. This involves examining the institutional theory of growth, as well as dealing with its critiques, which relate to the role of history, geography, culture or just plain luck.
 
