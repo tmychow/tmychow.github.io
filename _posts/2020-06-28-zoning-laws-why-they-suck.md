@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zoning Laws: Why They Suck, Why They Persist, and How We Can Fix Them"
-date: 2020-07-07
+date: 2020-06-28
 tag: economics
 ---
 
