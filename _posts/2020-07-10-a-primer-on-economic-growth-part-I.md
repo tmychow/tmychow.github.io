@@ -65,7 +65,7 @@ What this says is that the change in the capital per worker $\dot{k}$ is positiv
 
 > This is all very mathsy. What does this mean?
 
-Firstly, the long-run growth rate of output is zero and not determined by the savings rate. This is because the capital per worker will keep increasing when $k < k^*$ and once $k > k^*$, it will decrease. This means there is a steady state at $k^*$ where the capital-labour ratio and thus per capita income will be static.
+Firstly, the long-run growth rate of output is zero and not determined by the savings rate. This is because the capital per worker will keep increasing when $k < k^* $ and once $k > k^* $, it will decrease. This means there is a steady state at $ k^* $ where the capital-labour ratio and thus per capita income will be static.
 
 Secondly, the savings rate determines the level of per capita income at the steady state.
 
@@ -160,7 +160,7 @@ One useful example to illustrate their importance is the comparison between Nort
 
 [^Z]: [World Development Indicators 2005](https://openknowledge.worldbank.org/handle/10986/12425)
 
-![Corruption](/assets/corruptionandgrowth.png)
+![Corruption](/assets/corruptionandgrowth.png | width=100)
 
 > But we can't just snap out fingers and get good incentives and governance. What are the root causes behind them forming?
 
