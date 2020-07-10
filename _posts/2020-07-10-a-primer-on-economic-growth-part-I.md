@@ -5,6 +5,8 @@ date: 2020-07-10
 tag: economics
 ---
 
+In Part I, we will consider three main paradigms about economic growth: Malthusian, neoclassical and endogenous. These models show the role of the factors of production in driving economic growth. They also demonstrate that the accumulation of these factors alone cannot be the drivers of economic growth in the long-run. Instead, the long-run driver of economic growth is increasing productivity - we will look at how that occurs via technological progression and improvements in resource allocation. 
+
 **What is the Malthusian theory of economic growth?**
 
 Thomas Malthus had a theory of growth in 1798, resulting in this production function:
@@ -160,8 +162,8 @@ One useful example to illustrate their importance is the comparison between Nort
 
 [^Z]: [World Development Indicators 2005](https://openknowledge.worldbank.org/handle/10986/12425)
 
-![Corruption](/assets/corruptionandgrowth.png | width=100)
+![Corruption](/assets/corruptionandgrowth.png){:width="650px"}
 
 > But we can't just snap out fingers and get good incentives and governance. What are the root causes behind them forming?
 
-There are several theories explaining how these formed. Each emphasises a different original factor - geography, culture, institutions etc. And although none of them explain the picture completely, they combine to form a useful picture of how we understand the disparities in growth. But that's a story for Part II!
+There are several theories explaining how these are formed. Each emphasises a different original factor - geography, culture, institutions etc. And although none of them explain the picture completely, they combine to form a useful picture of how we understand the disparities in growth. But that's a story for Part II!
