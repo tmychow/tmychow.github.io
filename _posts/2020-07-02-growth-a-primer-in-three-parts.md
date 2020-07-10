@@ -26,6 +26,6 @@ Thirdly, prosperity has not arrived to all societies. Some countries have since 
 
 In [Part I]({% post_url 2020-07-10-a-primer-on-economic-growth-part-I %}), we will consider three main paradigms about economic growth: Malthusian, neoclassical and endogenous. These models show the role of the factors of production in driving economic growth. They also demonstrate that the accumulation of these factors alone cannot be the drivers of economic growth in the long-run. Instead, the long-run driver of economic growth is increasing productivity - via technological progression and improvements in resource allocation.
 
-In [Part II]({% post_url 2020-07-20-a-primer-on-economic-growth-part-II %}), we will look at the 'big history' reasons as to why countries are able to grow their factors of production and improve their productivity. This involves examining the institutional theory of growth, as well as dealing with its critiques, which relate to the role of history, geography, culture or just plain luck.
+In Part II, we will look at the 'big history' reasons as to why countries are able to grow their factors of production and improve their productivity. This involves examining the institutional theory of growth, as well as dealing with its critiques, which relate to the role of history, geography, culture or just plain luck.
 
-Finally, we will return to these big questions in [Part III]({% post_url 2020-07-30-a-primer-on-economic-growth-part-III %}), applying this extensive theoretical framework to explain the Industrial Revolution and why it occurred in England.
+Finally, we will return to these big questions in Part III, applying this extensive theoretical framework to explain the Industrial Revolution and why it occurred in England.
