@@ -2,7 +2,7 @@
 layout: post
 title: "A Primer on Economic Growth: Part I - The Theoretical Underpinnings"
 date: 2020-07-10
-tag: economics
+tags: economics sequence
 ---
 
 In Part I, we will consider three main paradigms about economic growth: Malthusian, neoclassical and endogenous. These models show the role of the factors of production in driving economic growth. They also demonstrate that the accumulation of these factors alone cannot be the drivers of economic growth in the long-run. Instead, the long-run driver of economic growth is increasing productivity - we will look at how that occurs via technological progression and improvements in resource allocation. 
