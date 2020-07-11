@@ -13,7 +13,7 @@ We interrupt the regularly scheduled programming on growth with a quick lecture 
 
 Economists see trade not as a zero-sum game but as positive-sum one, where people can gain without other people losing out. This is due to David Ricardo's idea of  comparative advantage - that is, when one's opportunity cost of producing an item is less than another's opportunity cost of producing that item. Suppose Harvey Specter is better at lawyering than I am, but he's also better at mowing the lawn. He would earn \$500 and \$100 an hour for doing those two respectively, while I would earn \$100 and \$50 an hour. 
 
-If we both split our days 50/50 between the two, he'd make $12*500 + 12*100 = 7,200$ and I'd make $12*100 + 12*50 = 1,800$. By contrast, if he only lawyered and I only mowed lawns, he'd make $24*500 = 12,000$ and I'd make $24*100 = 2,400$ - that is, we both benefit from specialising in our comparative advantage. Society as a whole would have more lawyering services and mowed lawns too, compared to if we didn't specialise. Despite him having an absolute advantage over me in both activities, it would make sense for him to focus on lawyering, because he has a comparative advantage there i.e. he's much better at lawyering than me while only being somewhat better at mowing lawns than me.
+If we both split our days 50/50 between the two, he'd make $ 12*500 + 12*100 = 7,200 $ and I'd make $ 12*100 + 12*50 = 1,800 $. By contrast, if he only lawyered and I only mowed lawns, he'd make $ 24*500 = 12,000 $ and I'd make $ 24*100 = 2,400 $ - that is, we both benefit from specialising in our comparative advantage. Society as a whole would have more lawyering services and mowed lawns too, compared to if we didn't specialise. Despite him having an absolute advantage over me in both activities, it would make sense for him to focus on lawyering, because he has a comparative advantage there i.e. he's much better at lawyering than me while only being somewhat better at mowing lawns than me.
 
 In a similar vein, this would suggest that countries should specialise in what they're good in and trade such that they can still access the other types of good and services, even if they could make it themselves. Because this is dependent on comparative rather than absolute advantage, countries can benefit even if they are worse at producing everything. 
 
@@ -34,7 +34,7 @@ The first objection to free trade is that it compels overseas workers to labour 
 
 It is first worth recognising that these workers generally aren't underpaid. The fact that in 2002, the average Chinese worker made 2.1% of what the average American worker made sounds shocking, until you notice that they were 2.7% as productive - indeed, this correlation between wages and productivity is incredibly strong across the world[^4]. 
 
-![Productivity and Wage Correlation](/assets/productivityandwages.png)
+![Productivity and Wage Correlation](/assets/productivityandwages.png){:width="650px"}
 
 [^4]: [UNCTAD 2002](https://unctad.org/en/Docs/tdr2002_en.pdf)
 
@@ -46,7 +46,7 @@ This can bring up some of the most vulnerable in developing countries. For examp
 
 [^7]: [Heath and Mobarak 2014](https://www.nber.org/papers/w20383)
 
-In fact, policies that attempt to restrict free trade by banning the imports of goods produced by child labour can be counterproductive. The 1992 Harkin Bill in the USA, which prohibited the import of products made by children under 15, caused garment employers in Bangladesh to dismiss 50,000 children, 75% of all children in the industry[^8]. Though freed from the supposed shackles of sweatshops, they ended up trapped in a harsh environment with no skills, little to no education, and precious few alternatives. Schools were either inaccessible, useless or costly. Instead, they were forced to turn to stone-crushing, street hustling and prostitution - all of them more hazardous and exploitative than garment production. In several cases, the mothers of dismissed children also had to leave their jobs in order to look after their children, which meant even lower earnings and quality of life for the entire household. 
+Policies that attempt to restrict free trade by banning the imports of goods produced by child labour can be counterproductive. The 1992 Harkin Bill in the USA, which prohibited the import of products made by children under 15, caused garment employers in Bangladesh to dismiss 50,000 children, 75% of all children in the industry[^8]. Though freed from the supposed shackles of sweatshops, they ended up trapped in a harsh environment with no skills, little to no education, and precious few alternatives. Schools were either inaccessible, useless or costly. Instead, they were forced to turn to stone-crushing, street hustling and prostitution - all of them more hazardous and exploitative than garment production. In several cases, the mothers of dismissed children also had to leave their jobs in order to look after their children, which meant even lower earnings and quality of life for the entire household. 
 
 [^8]: [UNICEF 1997](https://www.unicef.org/sowc97/download/sow1of2.pdf)
 
