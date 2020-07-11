@@ -2,7 +2,7 @@
 layout: post
 title: "Buy American? A Primer on Trade"
 date: 2020-07-13
-tag: economics
+tag: economics sequence
 ---
 
 We interrupt the regularly scheduled programming on growth with a quick lecture on the economics of free trade. Free trade refers to the unencumbered flow of goods and services between countries. Despite the academic consensus around its benefits, it is one of the most contested policy within the public sphere[^15] - and disappointingly, the Biden-Sanders Unity Task Force has recommended a "Buy American" trade strategy that could limit American imports. In order to figure out why there is this disparity, we will look at the Economics 101 model of trade, before addressing the three biggest concerns around international trade - exploitation of workers, undercutting domestic workers and trade deficits. 
@@ -11,9 +11,9 @@ We interrupt the regularly scheduled programming on growth with a quick lecture 
 
 **What is the Economics 101 of trade?**
 
-Economists see trade not as a zero-sum game but as positive-sum one, where people can gain without other people losing out. This is due to David Ricardo's idea of  comparative advantage - that is, when one's opportunity cost of producing an item is less than another's opportunity cost of producing that item. Suppose Harvey Specter is better at lawyering than I am, but he's also better at mowing the lawn. He would earn $\$$ 500 and 100 an hour for doing those two respectively, while I would earn 100 and 50 an hour. 
+Economists see trade not as a zero-sum game but as positive-sum one, where people can gain without other people losing out. This is due to David Ricardo's idea of  comparative advantage - that is, when one's opportunity cost of producing an item is less than another's opportunity cost of producing that item. Suppose Harvey Specter is better at lawyering than I am, but he's also better at mowing the lawn. He would earn \$ 500 and 100 an hour for doing those two respectively, while I would earn 100 and 50 an hour. 
 
-If we both split our days 50/50 between the two, he'd make 12 $\times$ 500 + 12 $\times$ 100 = 7,200 and I'd make 12 $\times$ 100 + 12 $\times$ 50 = 1,800. By contrast, if he only lawyered and I only mowed lawns, he'd make 24 $\times$ 500 = 12,000 and I'd make 24 \* 100 = 2,400 - that is, we both benefit from specialising in our comparative advantage. Society as a whole would have more lawyering services and mowed lawns too, compared to if we didn't specialise. Despite him having an absolute advantage over me in both activities, it would make sense for him to focus on lawyering, because he has a comparative advantage there i.e. he's much better at lawyering than me while only being somewhat better at mowing lawns than me.
+If we both split our days 50/50 between the two, he'd make 12 \* 500 + 12 \* 100 = 7,200 and I'd make 12 \* 100 + 12 \* 50 = 1,800. By contrast, if he only lawyered and I only mowed lawns, he'd make 24 \* 500 = 12,000 and I'd make 24 \* 100 = 2,400 - that is, we both benefit from specialising in our comparative advantage. Society as a whole would have more lawyering services and mowed lawns too, compared to if we didn't specialise. Despite him having an absolute advantage over me in both activities, it would make sense for him to focus on lawyering, because he has a comparative advantage there i.e. he's much better at lawyering than me while only being somewhat better at mowing lawns than me.
 
 In a similar vein, this would suggest that countries should specialise in what they're good in and trade such that they can still access the other types of good and services, even if they could make it themselves. Because this is dependent on comparative rather than absolute advantage, countries can benefit even if they are worse at producing everything. 
 
