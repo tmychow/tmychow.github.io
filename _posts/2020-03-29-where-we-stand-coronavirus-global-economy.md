@@ -2,7 +2,7 @@
 layout: post
 title: "Where We Stand: Coronavirus and the Global Economy"
 date: 2020-03-29
-tags: coronavirus economics
+tags: coronavirus economics sequence
 ---
 
 The coronavirus is both a public health and economic crisis. The fact that it is acting as a demand-side and supply-side shock, coupled with the medical solution being antithetical to economic recovery in the short-run, means that its severity is difficult to be underestimated. It also means that there are policy implications on how governments around the world ought to be dealing with it.
@@ -35,7 +35,7 @@ An economic shutdown, even a temporary one for a few months, wouldn’t just be 
 
 Even larger firms such as Volvo Motors are anticipating little more than half a year worth of cash reserves. This is problematic given that many companies, with the cheap lending conditions of the past decade, have become accustomed to refinancing debts. While this might have worked when lending was cheap, the coronavirus crisis has exposed the imbalanced financial system propped up and distorted by over a decade’s worth of ultra-low interest rates and quantitative easing.
 
-This debt bubble (with more than $2 trillion in corporate debt due this year) could burst as lending dries up, causing a surge in corporate bankruptcies among firms that have taken excessive risk. One example would be Virgin Airlines, which has over $5 billion in debt to pay off while its market value has halved to a mere $500 million since the coronavirus crisis. It seems doubtful that many would lend to such an over-leveraged firm, making rolling over this debt nigh on impossible.
+This debt bubble (with more than <span>$</span>2 trillion in corporate debt due this year) could burst as lending dries up, causing a surge in corporate bankruptcies among firms that have taken excessive risk. One example would be Virgin Airlines, which has over <span>$</span>5 billion in debt to pay off while its market value has halved to a mere <span>$</span>500 million since the coronavirus crisis. It seems doubtful that many would lend to such an over-leveraged firm, making rolling over this debt nigh on impossible.
 
 This could cripple the recovery as firms spend a long time deleveraging, and alongside this there would be firesales that devalue safe assets (hurting even responsible investors like pension funds and mutual funds), bankruptcies that hurt creditors and closures that lead to job losses. These mechanisms will contribute to a debt-deflation recession (where economic growth remains stagnant due to the need to pay off debts), one that is even riskier this time around, because corporate debt is 2 times as large as it was in 2008.
 
@@ -43,7 +43,7 @@ S&P are predicting defaults on non-financial corporations in the US to reach dou
 
 Worryingly, this is not isolated to certain industry, with around 50% of corporate debt in the US being rated BBB, which is just above junk bond status. That not only creates a risk of them being downgraded, making refinancing difficult, it also means more conservative investment portfolios in mutual funds may be forced to sell them off, triggering a further fall in value.
 
-This financial risk is an international one - when there is panic, money usually flows into more stable countries, fleeing developing ones. In the first 8 weeks of the coronavirus panic, more than $55 billion has flowed out of emerging economies, double the leakage that was seen in 2008. This seriously compromises the ability for developing countries, with small tax bases and weak public finances that depend on foreign capital, from engaging in extensive government and private spending
+This financial risk is an international one - when there is panic, money usually flows into more stable countries, fleeing developing ones. In the first 8 weeks of the coronavirus panic, more than <span>$</span>55 billion has flowed out of emerging economies, double the leakage that was seen in 2008. This seriously compromises the ability for developing countries, with small tax bases and weak public finances that depend on foreign capital, from engaging in extensive government and private spending
 
 
 **Where We Stand**
@@ -79,11 +79,11 @@ In the UK, Chancellor Sunak announced that the UK government is going to pay 80%
 
 Perhaps most importantly, he has been clear in his determination, saying that he has the legal authority to “offer whatever further financial support necessary”. That represents a huge commitment towards defending the economy that undoubtedly renewed confidence among business owners.
 
-Meanwhile, the USA has delayed tax day by a quarter, bringing it to July 15. The $2 trillion stimulus package provides handouts of up to $1,200 per person, suspends student loan payments for 6 months and expanded unemployment insurance by $600 a week for four months. This is on top of the $200 to $500 a week provided by states, and alongside this is the creation of an unemployment assistance program to include the self-employed, independent contractors and gig economy workers.
+Meanwhile, the USA has delayed tax day by a quarter, bringing it to July 15. The <span>$</span>2 trillion stimulus package provides handouts of up to <span>$</span>1,200 per person, suspends student loan payments for 6 months and expanded unemployment insurance by <span>$</span>600 a week for four months. This is on top of the <span>$</span>200 to <span>$</span>500 a week provided by states, and alongside this is the creation of an unemployment assistance program to include the self-employed, independent contractors and gig economy workers.
 
-The Treasury has also provided $500 billion in loans, with 10% earmarked for air carriers and national security. The loans are conditional upon businesses not being able to issue dividends till at least a year after the loan has been repayed and them retaining 90% of employees for 6 months, with a delayed repayment schedule for SMEs and non-profits. $1 billion has also been provided for the Defense Production Act, with Trump compelling GM to make ventilators via this legislation.
+The Treasury has also provided <span>$</span>500 billion in loans, with 10% earmarked for air carriers and national security. The loans are conditional upon businesses not being able to issue dividends till at least a year after the loan has been repayed and them retaining 90% of employees for 6 months, with a delayed repayment schedule for SMEs and non-profits. <span>$</span>1 billion has also been provided for the Defense Production Act, with Trump compelling GM to make ventilators via this legislation.
 
-The package further includes $32 billion in grants and $29 billion in loans for the airline industry, conditional upon them not making furloughs, paycuts, stock buybacks and issuing dividends for the next 6 months. Hospitals and healthcare also received $117 billion to support the provision of care.
+The package further includes <span>$</span>32 billion in grants and <span>$</span>29 billion in loans for the airline industry, conditional upon them not making furloughs, paycuts, stock buybacks and issuing dividends for the next 6 months. Hospitals and healthcare also received <span>$</span>117 billion to support the provision of care.
 
 These sorts of fiscal policies are by and large enormous commitments that will help businesses stay alive and not have to fire their workers immediately, allowing economic spending to continue.
 
