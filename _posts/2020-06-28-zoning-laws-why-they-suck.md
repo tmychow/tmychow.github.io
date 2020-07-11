@@ -2,7 +2,7 @@
 layout: post
 title: "Zoning Laws: Why They Suck, Why They Persist, and How We Can Fix Them"
 date: 2020-06-28
-tag: economics
+tags: economics sequence
 ---
 
 Zoning refers to policies that divide land into zones that are regulated for specific purposes. Zoning is used as a mechanism of urban planning to separate different uses of land that are seen as incompatible or to prevent activities that would interfere with and degrade existing uses of land.
