@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Buy American? A Primer on Trade"
-date: 2020-07-11
+date: 2020-07-13
 tag: economics
 ---
 
