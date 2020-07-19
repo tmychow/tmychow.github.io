@@ -7,17 +7,15 @@ tags: economics notes
 
 These notes are based off of the Global Financial Crisis MOOC by Andrew Metrick and Timothy Geithner.
 
-**<p style="text-align: center;">The Global Financial Crisis</p>**
-
 **Table of Contents**
 
 1. [Introduction to Financial Crises](#introduction-to-financial-crises)
 2. [Housing and Mortgages](#housing-and-mortgages)
-3. Safe Assets and the Global Savings Glut
-4. The Housing Crisis
-5. Anxiety and Panic
-6. Responses to Crisis
-7. Europe and the Eurozone
+3. [Safe Assets and the Global Savings Glut](#safe-assets-and-the-global-savings-glut)
+4. [The Housing Crisis](#the-housing-crisis)
+5. [Anxiety and Panic](#anxiety-and-panic)
+6. [Responses to Crisis](#responses-to-crisis)
+7. [Europe and the Eurozone](#europe-and-the-eurozone)
 
 **TL;DR**
 
@@ -39,7 +37,7 @@ Fourthly, the insurance industry faced its unique problems. AIG was a large insu
 
 All together this led to a world where there were lots of financial institutions, many of which had solvency problems. But because we cannot determine which ones, we begin asking for collateral and cash on hand - this leads to liquidity problems that cause mass panic, overwhelming institutions one by one. The consequence is that the financial system, which is the circulatory system of the economy, began to seize up and affect the real economy. One example would be the monolines. They were insurance firms that insured municipal bonds and mortgage securities. Because they didn't have anywhere close to the capital required, the collapse of these MBSs meant a loss of confidence in monolines. People tried to sell the municipal bonds insured by them to no avail - and because of the way these were structured, an inability to sell them led to higher interest rates for municipalities who often couldn't pay.
 
-### Introduction to Financial Crises
+#### Introduction to Financial Crises
 
 **What is a financial crisis?**
 
@@ -78,7 +76,7 @@ There was a fundamental failure in imagination of a run on a non-bank institutio
 - Regulators didn't request authority to set capital and leverage limits in places where that didn't already exist.
 - Regulators failed to limit risk taking in home loans, banks, repo, securities, finance and other crucial markets.
 
-### Housing and Mortgages
+#### Housing and Mortgages
 
 **How do housing bubbles relate to financial crises?**
 
@@ -113,7 +111,7 @@ There are many types of non-prime mortgages.
 - Rates for sub-prime fixed and prime adjustable converged by 2009 at around 20%, and even prime fixed went up to 5% by 2009.
 - In 2007, everyone had average rates of under 2%. By 2009, it had reached 8% in the USA, while the UK and Spain maintained around 2% and Australia and Canada didn't face a foreclosure crisis.
 
-### Safe Assets and the Global Savings Glut
+#### Safe Assets and the Global Savings Glut
 
 **What is the shadow banking system?**
 
@@ -142,7 +140,7 @@ There are many types of non-prime mortgages.
 - For mortgages, these became mortgage-backed securities. Although many MBSs were guaranteed by Fannie and Freddie, by 2003 there was so much demand that private label MBSs were created - these were a mixture of residential MBSs, which contained mortgages that did not qualify for GSE guarantees, as well as commercial MBSs, since there was no government program to guarantee commercial mortgages.
 - Non-mortgage asset-backed securities were also becoming more popular in the early 2000s. It often involved companies bundling their loans into a trust, such as car companies providing loans to help people finance their car purchase. In fact, by 2005, the size of corporate ABSs had converged with the size of the corporate bond market at around \$750 billion each. This was because it is difficult to issue lots of corporate bonds at AAA level, which is much easier with ABSs.
 
-### Housing Crisis
+#### Housing Crisis
 
 There are three hypotheses for why the housing crisis occurred.
 
@@ -167,7 +165,7 @@ There are three hypotheses for why the housing crisis occurred.
 -	Mortgage suppliers thought prices were unlikely to drop. Lehman Brothers put a 50% probability on a base case of 5% house price appreciation by end of 2005, a 15% probability on a pessimistic case of 0% HPA for 3 years followed by 5% thereafter, and a 5% probability on -5% HPA for three years followed by 5% thereafter. Even JP Morgan, which did the best out of the crisis, kept expecting stabilising house prices right up till July 2007, a month before the financial crisis beginning.
 - The risk of asset bubbles is always lurking, and the longer we go without one popping, the more people don't believe it can occur. The reason this bubble occurred between 2003 and 2007 was because of a global macroeconomic environment that demanded enormous amounts of the underlying securities, fueled by investors who couldn't see the risk in taking these securities onto their portfolio.
 
-### Anxiety and Panic
+#### Anxiety and Panic
 
 In order to understand how a rise in mortgages and mortgage-backed safe assets led to a financial crisis, we need to understand a few things. Firstly, we need to see how the ABX and LIBOR-OIS reflect the general state of affairs in 2007. Secondly, we focus in on the way in which anxiety in following BNP Paribas caused pressure on the inter-bank markets via asset-backed commercial paper. Thirdly, we consider the practical case studies of Northern Rock, monolines and Bear Stearn to build context. Finally, we see how the shadow banking system was structured in a way that eventually led to the demise of Lehman Brothers and AIG.
 
@@ -296,7 +294,7 @@ Combined, this led to an enormous cash drain on AIG - on September 12th, the NY 
 
 We've seen how the unsecured lending market of ABCP faced a run. We've seen how the unsecured inter-bank lending market of LIBOR collapsed. We've seen how a run on unsecured MMMFs was only narrowly arrested by government action. All of this created enormous pressure on the repo market - the last available option, and one that would pressure every single institution relying on short-term funding markets. For example, until July 2007, the average haircut on structured debt was 0%. By the end of 2008, it had hit 45%. As the repo market came under pressure, dealers had to engage in fire sales of even healthy securities that had no sub-prime exposure.
 
-### Responses to Crisis
+#### Responses to Crisis
 
 What policymakers do and do not do have a huge effect on how dangerous crises are. To break panics, you have to figure out how to stop people's individual incentives to run on a bank. A country's ability to do so depends on its financial capacity - your degrees of freedom are affected by your level of public debt, your central bank's credibility and the size of your financial system relative to the size of your economy. But even with that strong financial capacity, the USA's tools were determined by the legal authority it had to engage in this firefighting - the legal mandate available was limited by and large to traditional banks and the \$4.5 trillion in insured deposits. Unfortunately, most of the financial system was outside that scope - \$7.8 trillion in uninsured bank liabilities, \$4.1 trillion in holding companies and broker dealers, \$6.7 trillion in GSEs, \$3.4 trillion in money market mutual funds, \$4.3 trillion in ABSs and \$1.7 trillion in commercial paper.
 
@@ -390,7 +388,7 @@ But there are some scars that have been left. Poverty and the economic harms rem
 - Discriminate the idiosyncratic financial shock from the systemic.
 - Keep some perspective on moral hazard.
 
-### Europe and the Eurozone
+#### Europe and the Eurozone
 
 Europe's crisis and response was different because of its differing monetary structure. This meant that it become a Eurozone crisis.
 
