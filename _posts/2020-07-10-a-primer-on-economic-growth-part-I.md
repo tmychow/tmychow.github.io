@@ -156,14 +156,6 @@ There are also missing markets the government can compensate for. One example mi
 
 In all of these cases, the government may have a role in correcting these market failures by direct provisions, regulations, taxes and subsidies, and setting up institutions. This has to be weighed against the distortionary effects these interventions can cause, especially when the government itself fails due to its limited information or inability to foresee how the market reacts.
 
-**How important are incentives and governance?**
-
-One useful example to illustrate their importance is the comparison between North and South Korea. South Korea has a GDP per capita nearly 20 times higher than that of North Korea. When the country was split into North and South at the end of World War Two, there were no significant differences in people and culture. Nor were there huge differences in natural resources, with a minor advantage in the North due to it being more industrialised. That is to say, they had nearly identical humand and physical capital, with any advantages favouring the North. The one place they differed was their economic incentives and governance structures. While North Korea became a state-led communist state, South Korea had a much more capitalist system - and its incentives led to the growth we see now. Indeed, we can see a broader trend between honest governments and economic growth[^Z].
-
-[^Z]: [World Development Indicators 2005](https://openknowledge.worldbank.org/handle/10986/12425)
-
-![Corruption](/assets/corruptionandgrowth.png){:width="650px"}
-
-> But we can't just snap out fingers and get good incentives and governance. What are the root causes behind them forming?
+> But we can't just snap out fingers and get efficient production processes and technological developments. What are the root causes behind them forming?
 
 There are several theories explaining how these are formed. Each emphasises a different original factor - geography, culture, institutions etc. And although none of them explain the picture completely, they combine to form a useful picture of how we understand the disparities in growth. But that's a story for Part II!
