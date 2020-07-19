@@ -24,8 +24,8 @@ Thirdly, prosperity has not arrived to all societies. Some countries have since 
 
 > What did the Malthusian trap persist for so long? Why did the Industrial Revolution allow an escape? Why was there a Great Divergence?
 
-In [Part I]({% post_url 2020-07-10-a-primer-on-economic-growth-part-I %}), we will look at some basic theoretical models of economic growth.
+In [Part I]({% post_url 2020-07-10-a-primer-on-economic-growth-part-I %}), we will look at some basic theoretical models that describe economic growth.
 
-In Part II, we will look at the 'big history' reasons as to why countries are able to grow their factors of production and improve their productivity. This involves examining the institutional theory of growth, as well as dealing with its critiques, which relate to the role of history, geography, culture or just plain luck.
+In Part II, we will look at the 'big history' reasons as to why countries are able to grow their factors of production and improve their productivity - that is, the fundamental rather than proximate explanation for growth.
 
-Finally, we will return to these big questions in Part III, applying this extensive theoretical framework to explain the Industrial Revolution and why it occurred in England.
+Finally, we will return to these big questions in Part III, applying the framework we will have established to explain the Industrial Revolution and why it occurred in England.
