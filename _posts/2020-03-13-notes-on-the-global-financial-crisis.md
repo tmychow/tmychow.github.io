@@ -5,7 +5,7 @@ date: 2020-03-13
 tags: economics notes
 ---
 
-These notes are based off of the Global Financial Crisis MOOC by Andrew Metrick and Timothy Geithner.
+These notes are based off of the Global Financial Crisis MOOC by Andrew Metrick and Timothy Geithner. I'll be adding more stuff based off of the r/Economics FAQ as well as Gorton and Metrick's GFC guide.
 
 **Table of Contents**
 
@@ -93,7 +93,7 @@ There are different ways to structure mortgages.
 
 Mortgages are also distinguished by whether they are prime or non-prime.
 
--	A prime mortgage conforms to Government Sponsored Enterprise standards - that is, regulations set by Fannie and Freddie. This means the maximum loan size is \$417,000, there is a limit on the loan-to-value ratio, there is a limit on the borrower's credit score and there are rules about occupancy.
+-	A prime mortgage conforms to Government Sponsored Enterprise standards - that is, regulations set by Fannie and Freddie. This means the maximum loan size is $417,000, there is a limit on the loan-to-value ratio, there is a limit on the borrower's credit score and there are rules about occupancy.
 - If a mortgage is prime, Fannie and Freddie will buy and guarantee it. They can then be packaged into mortgage-backed securities that are as safe as government bonds, because they are government-backed.
 - Clearly it is impossible to guarantee people won't prepay mortgages or that interest rates will fall. However, in terms of ensuring the timely payment of the interest and the principal, it is as safe as you get.
 
@@ -116,11 +116,11 @@ There are many types of non-prime mortgages.
 **What is the shadow banking system?**
 
 -	When depositors given banks money, they loan it out to borrowers. This creates a short-term debt from the bank to the depositor, and a long-term debt from borrowers to the bank.
-- Because the FDIC only insures the first $100,000 of your savings, there is a demand for a shadow banking system.
+- Because the FDIC only insures the first <span>$</span>100,000 of your savings, there is a demand for a shadow banking system.
 
 **What are safe assets?**
 
--	Safe assets have information insensitivity - that is, although it is not risk free, you can get no advantage on its worth via finding out more information. For example, a $1 bill is a safe asset.
+-	Safe assets have information insensitivity - that is, although it is not risk free, you can get no advantage on its worth via finding out more information. For example, a <span>$</span>1 bill is a safe asset.
 - Some things can go from being information insensitive to information sensitive. If you lose faith in the integrity of a bank, this may undermine the safety of their assets. Other assets are always information sensitive e.g. shares in the stock market, the private debt of third party or the government debt of an unstable country.
 
 **How did the demand for safe assets change?**
@@ -128,13 +128,13 @@ There are many types of non-prime mortgages.
 -	Notice that between 2003 and 2007, short-term interest rates in the US increased by 4%. This ought to increase longer-term rates. However, the 10-year Treasury bond rate stayed pretty static.
 - The 30-year fixed mortgage interest rate is traditionally around 1.5 to 2 percentage points more than the 10-year Treasury rate. Because the Treasury rate stayed low, so did mortgage rates. This created a booming housing market.
 - Before he was Chairman of the Federal Reserve, Ben Bernanke suggested that this conundrom was due to a global savings glut. That is, emerging markets and commodity rich countries with large current account surpluses need to put their money somewhere, and they chose to buy lots of safe US government assets, keeping the Treasury rates low. This weakened the link between short and long-term interest rates.
-- For example, most of the China’s 2003-2007 \$900 billion current account surplus was spent on US Treasury securities, with around half of the \$600 billion current account surplus of the rest of Asia and \$100 billion from OPEC spent likewise. European countries also increased their demand for various types of safe assets. All of this combined to \$2.5 trillion in safe assets being bought, while the US government and GSEs only produced \$1 trillion and \$1.5 trillion in debt respectively.
-- The consequence was that domestic investors needed other AAA debt to invest in, and since safe corporate debt was rare, they went for residential mortgage-backed securities. This was exacerbated by the growth of institutional cash pools, with estimates suggesting that it rose from \$3 trillion to over \$4 trillion from 2003 to 2007. Unlike foreign investors, these domestic institutional investors were especially interested in short-term assets.
+- For example, most of the China’s 2003-2007 <span>$</span>900 billion current account surplus was spent on US Treasury securities, with around half of the <span>$</span>600 billion current account surplus of the rest of Asia and <span>$</span>100 billion from OPEC spent likewise. European countries also increased their demand for various types of safe assets. All of this combined to <span>$</span>2.5 trillion in safe assets being bought, while the US government and GSEs only produced <span>$</span>1 trillion and <span>$</span>1.5 trillion in debt respectively.
+- The consequence was that domestic investors needed other AAA debt to invest in, and since safe corporate debt was rare, they went for residential mortgage-backed securities. This was exacerbated by the growth of institutional cash pools, with estimates suggesting that it rose from <span>$</span>3 trillion to over <span>$</span>4 trillion from 2003 to 2007. Unlike foreign investors, these domestic institutional investors were especially interested in short-term assets.
 
 **How did the supply of safe assets change?**
 
 -	Safe assets, with the exception of precious metals, primarily involve the debt and currency of stable countries. Because of the scarcity as seen above, there was a demand for making new safe assets.
-- So if I gave you a certificate that said you now owned 1% of my \$300,000 house, that'd be a terrible safe asset to use in a purchase. Anyone who received would have to go value my house and they might not even be able to sell the house if they need the money. Instead I offer the first \$3,000 of the value of my house - either I have to pay you \$3,000, or if I can't and my house gets sold, you get the first \$3,000 of that sale. That seems pretty safe, especially if the debt-to-value ratio is low enough such that no one has an incentive to analyse the probability this might be over or under-valued. This creates information insensitivity and thus a safe asset.
+- So if I gave you a certificate that said you now owned 1% of my <span>$</span>300,000 house, that'd be a terrible safe asset to use in a purchase. Anyone who received would have to go value my house and they might not even be able to sell the house if they need the money. Instead I offer the first <span>$</span>3,000 of the value of my house - either I have to pay you <span>$</span>3,000, or if I can't and my house gets sold, you get the first <span>$</span>3,000 of that sale. That seems pretty safe, especially if the debt-to-value ratio is low enough such that no one has an incentive to analyse the probability this might be over or under-valued. This creates information insensitivity and thus a safe asset.
 - If we take a set of assets from an originating firm e.g. a bank with mortgages or an auto company with auto leases, we can put them in a trust pool, which is a separate entity. This is set up as a trust, which cannot go bankrupt. If it does run out of money to meet its obligations, it distributes the proceeds from selling the assets it has to claimants based on the rules decided when it was set up.
 - When it is set up, it issues bonds called asset-backed securities, in order to get the money to buy the initial assets from the originating firm. These bonds are split into tranches that go from AAA at the top, which gets paid first. AAA bonds are supposed to be safe - if they constitute 75% of the trust, the value of the asset pool would have to drop 25% for there to be a danger of non-payment. Because there is now a pool of assets, it is safer than every individual asset within the trust and can be sold to people.
 - For mortgages, these became mortgage-backed securities. Although many MBSs were guaranteed by Fannie and Freddie, by 2003 there was so much demand that private label MBSs were created - these were a mixture of residential MBSs, which contained mortgages that did not qualify for GSE guarantees, as well as commercial MBSs, since there was no government program to guarantee commercial mortgages.
