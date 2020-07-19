@@ -5,7 +5,7 @@ date: 2020-03-13
 tags: economics notes
 ---
 
-These notes are based off of the Global Financial Crisis MOOC by Andrew Metrick and Timothy Geithner. I'll be adding more stuff based off of the r/Economics FAQ as well as Gorton and Metrick's GFC guide.
+These notes are based off of the Global Financial Crisis MOOC by Andrew Metrick and Timothy Geithner.
 
 **Table of Contents**
 
