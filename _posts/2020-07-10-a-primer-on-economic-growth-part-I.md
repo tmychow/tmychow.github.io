@@ -158,4 +158,4 @@ In all of these cases, the government may have a role in correcting these market
 
 > But we can't just snap out fingers and get efficient production processes and technological developments. What are the root causes behind them forming?
 
-There are several theories explaining how these are formed. Each emphasises a different original factor - geography, culture, institutions etc. And although none of them explain the picture completely, they combine to form a useful picture of how we understand the disparities in growth. But that's a story for Part II!
+There are several theories explaining how these are formed. Each emphasises a different original factor - geography, culture, institutions etc. And although none of them explain the picture completely, they combine to form a useful picture of how we understand the disparities in growth. But that's a story for [Part II]({% post_url 2020-07-24-a-primer-on-economic-growth-part-II %})!
