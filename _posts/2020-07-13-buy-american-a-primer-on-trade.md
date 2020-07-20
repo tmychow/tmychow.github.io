@@ -2,7 +2,7 @@
 layout: post
 title: "Buy American? A Primer on Trade"
 date: 2020-07-13
-tags: economics sequence
+tags: economics effortposts
 ---
 
 We interrupt the regularly scheduled programming on growth with a quick lecture on the economics of free trade. Free trade refers to the unencumbered flow of goods and services between countries. Despite the academic consensus around its benefits, it is one of the most contested policy within the public sphere[^15] - and disappointingly, the Biden-Sanders Unity Task Force has recommended a "Buy American" trade strategy that could limit American imports. In order to figure out why there is this disparity, we will look at the Economics 101 model of trade, before addressing the three biggest concerns around international trade - exploitation of workers, undercutting domestic workers and trade deficits. 
