@@ -2,7 +2,7 @@
 layout: post
 title: "Growth: A Primer in Three Parts"
 date: 2020-07-02
-tags: economics sequence
+tags: economics effortposts
 ---
 
 In these turbulent and uncertain times, it is easy to focus only on the violent economic fluctuations within the business cycle. But there is also a bigger picture - the longer-run increase in economic output across history. Measuring growth is important, because it defines the standard of living available to humanity.
