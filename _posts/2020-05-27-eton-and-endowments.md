@@ -2,7 +2,7 @@
 layout: post
 title: "Eton and Endowments"
 date: 2020-05-27
-tag: miscellaneous
+tags: miscellaneous takes
 ---
 
 There has been much furore regarding the role of private schools within the UK - at the centre of that has been the Labour Party's "Abolish Eton" campaign. In particular, concerns have been raised over the charitable status and vast endowments available to certain private schools. Given its prominence, let us look at Eton College. Is it right and proper that the school has such a sizable endowment? Is it doing its charitable duty using these assets? I will set out a simplified model of what it could earn from its endowment, calibrate it against existing values and see what that means for bursaries.
