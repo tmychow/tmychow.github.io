@@ -2,7 +2,7 @@
 layout: post
 title: "Making Change on #blackouttuesday"
 date: 2020-06-02
-tag: miscellaneous
+tags: miscellaneous takes
 ---
 
 As \#blackouttuesday has become a widespread phenomenon across Instagram, it is worth considering things we can do beyond simply virtue signalling to make real change.
