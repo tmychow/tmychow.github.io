@@ -2,7 +2,7 @@
 layout: post
 title: "Coronavirus: The Great Unequaliser"
 date: 2020-04-14
-tags: coronavirus economics
+tags: coronavirus economics takes
 ---
 
 I think it has become incredibly easy to view the coronavirus crisis in the context of aggregate statistics. Indeed, many have spoken about the coronavirus as an 'equalizer', with Madonna calling it 'the great equalizer' and Governor Cuomo saying that 'everyone is subject to this virus. I don't care how smart, how rich, how powerful you think you are'. However, the impacts of the crisis have been anything but equal - they have asymmetrically hurt the working class and hurt racial minorities, with this effect being particularly pronounced in the USA.
