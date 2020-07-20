@@ -2,7 +2,7 @@
 layout: post
 title: "A Conversation with Nobel Laureate Oliver Hart on Contract Theory"
 date: 2020-05-14
-tags: economics interview
+tags: economics interviews
 ---
 
 Professor Oliver Hart is the Andrew E. Furer Professor of Economics Harvard University. He specialises in contract theory and the theory of the firm, having served as the President of the American Law and Economics Association and as vice president of the American Economic Association. His work on contracts and ownership in particular won him the 2016 Nobel Prize in Economics, alongside Bengt Holmström. It was an honour and delight to speak to him about his work and its applications in various contractual relationships. (The interview is edited for clarity and brevity.)
