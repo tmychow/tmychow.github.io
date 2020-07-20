@@ -2,10 +2,10 @@
 layout: post
 title: "A Primer on Economic Growth: Part II - Electric Boogaloo"
 date: 2020-07-24
-tags: economics sequence
+tags: economics effortposts
 ---
 
-In Part I, we saw what growth can be modeled as - but we were left wondering where that comes from. In Part II, we will be examining several hypotheses on the fundamental drivers of economic growth - that is, how the factor accumulation and productivity gains arise in the first place.
+In [Part I]({% post_url 2020-07-10-a-primer-on-economic-growth-part-I %}), we saw what growth can be modeled as - but we were left wondering where that comes from. In Part II, we will be examining several hypotheses on the fundamental drivers of economic growth - that is, how the factor accumulation and productivity gains arise in the first place.
 
 **What is the theory of geographical determinism?**
 
