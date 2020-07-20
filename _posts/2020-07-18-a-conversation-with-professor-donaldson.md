@@ -2,7 +2,7 @@
 layout: post
 title: "A Conversation with Professor Donaldson on International Trade"
 date: 2020-07-18
-tags: economics interview
+tags: economics interviews
 ---
 
 As a followup to the [last post]({% post_url 2020-07-13-buy-american-a-primer-on-trade %}), Professor Dave Donaldson kindly agreed to speak on his work in trade economics. Professor Donaldson is a Professor of Economics at MIT and the winner of the 2017 John Bates Clark Medal, awarded by the American Economic Association to "the American economist under the age of forty who is judged to have made the most significant contribution to economic thought and knowledge". He currently serves as a co-editor at Econometrica and as a program director for Trade at the International Growth Centre. It was a privilege and pleasure to speak to him about his work and its policy implications on trade policy. (The interview is edited for clarity and brevity.)
