@@ -26,6 +26,6 @@ Thirdly, prosperity has not arrived to all societies. Some countries have since 
 
 In [Part I]({% post_url 2020-07-10-a-primer-on-economic-growth-part-I %}), we will look at some basic theoretical models that describe economic growth.
 
-In Part II, we will look at the 'big history' reasons as to why countries are able to grow their factors of production and improve their productivity - that is, the fundamental rather than proximate explanation for growth.
+In [Part II]({% post_url 2020-07-24-a-primer-on-economic-growth-part-II %}), we will look at the 'big history' reasons as to why countries are able to grow their factors of production and improve their productivity - that is, the fundamental rather than proximate explanation for growth.
 
 Finally, we will return to these big questions in Part III, applying the framework we will have established to explain the Industrial Revolution and why it occurred in England.
