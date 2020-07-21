@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Notes on the Global Financial Crisis"
+title: "Notes on the Global Financial Crisis by Andrew Metrick and Timothy Geithner"
 date: 2020-03-13
 tags: economics notes
 ---
-
-These notes are based off of the Global Financial Crisis MOOC by Andrew Metrick and Timothy Geithner.
 
 **Table of Contents**
 
