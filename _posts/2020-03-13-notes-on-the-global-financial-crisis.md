@@ -5,6 +5,9 @@ date: 2020-03-13
 tags: economics notes
 ---
 
+These are some notes from the Global Financial Crisis course taught by Andrew Metrick and Timothy Geithner. This is mostly for my future self to refer back to, although it is hopefully fleshed out enough to be helpful to someone else.
+
+
 **Table of Contents**
 
 1. [Introduction to Financial Crises](#introduction-to-financial-crises)
