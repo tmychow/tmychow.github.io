@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "All that glitters is not gold: some thoughts on taxes"
+title: "All that glitters is consumption: some thoughts on taxes"
 date: 2020-07-29
 tags: economics takes
 ---
