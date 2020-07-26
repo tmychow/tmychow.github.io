@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "All that Glitters is Consumption: Some Thoughts on Taxes"
+title: "All that Glitters is Not Gold: It's Consumption"
 date: 2020-07-29
 tags: economics takes
 ---
@@ -52,7 +52,7 @@ Because it is a refund, there is an incentive to declare all of one's consumptio
 
 **What are the advantages of the consumption tax?**
 
-We've seen the issues with personal income and corporate income taxes - but there are other reasons to prefer a consumption tax. For one, it provides a disincentive against consumption, which encourages people to save. As I explain in Part I of my growth primer, savings and investments are crucial in providing the capital formation needed for economic growth. And this means that we no longer need the incredibly excessive number of exemptions in tax codes for various savings accounts, simplifying the system.
+We've seen the issues with personal income and corporate income taxes - but there are other reasons to prefer a consumption tax. For one, it provides a disincentive against consumption, which encourages people to save. As I explain in [Part I]({% post_url 2020-07-10-a-primer-on-economic-growth-part-I %}) of my growth primer, savings and investments are crucial in providing the capital formation needed for economic growth. And this means that we no longer need the incredibly excessive number of exemptions in tax codes for various savings accounts, simplifying the system.
 
 Secondly, there is no fundamental reason to tax and redistribute income or wealth. As evidenced by my incredibly non-rigorous poll, the most meaningful measure of well-being and inequality is by the things you can get with your money i.e. your consumption - and the best proxy for consumption is consumption. People who are wealthy but don't spend it are either donating or investing that money - that is a good thing.
 
@@ -65,8 +65,6 @@ Fourthly, to the extent to which we use fiscal policy in recessions, a temporary
 The mirror of the second benefit of a consumption tax is why a wealth tax similarly makes little sense - to the extent to which we are worried about rich people being able to afford extravagant lifestyles of marshal their resources in problematic ways, we are worried about consumption. Wealth by definition is sitting in investment funds or in businesses - that is, being spent to grow businesses. And it is incredibly unclear to me why wealth is the indicator we should therefore be worrying about.
 
 What happens when we do impose a wealth tax? In the same way the income taxes caused problematic incentives, a wealth tax incentivises people not to save, but instead to spend. Why invest your money to grow businesses when that's going to get taxed? Go on a cruise instead! And to the extent to which some people have far too much money to spend on private jets or lobbying politicians, why invest in risky but potentially high return businesses? A progressive wealth tax encourages investing in safer but lower return assets like blue chip stocks and government bonds, rather than the startups of the world. This is not to mention the immense complexities of tax evasion that a wealth tax incentivises - whether that is rich people owning intermediaries that own various assets or design shares in a convoluted way, all designed to make enforcement impossible.
-
-The logical extension of this is to oppose inheritance taxes too - they are after all also wealth taxes, and taxing it has the same effect on intertemporal choices about consumption and saving. However, our explanation for why a flat consumption tax isn't regressive depended upon income going to consumption or future consumption. In this case, future consumption implicitly includes the consumption by the children of wealthy - which seems like a silly thing to include when considering progressivity. And coupled with the fact that wealth accrues benefits to children beyond consumption i.e. financial security, I am much more sympathetic to an inheritance tax than a wealth tax in general.
 
 **Coda**
 
