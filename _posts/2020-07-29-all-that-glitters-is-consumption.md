@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "All that glitters is consumption: some thoughts on taxes"
+title: "All that Glitters is Consumption: Some Thoughts on Taxes"
 date: 2020-07-29
 tags: economics takes
 ---
 
-I recently made a poll on Instagram, asking people if they would rather:
+I recently saw an Instagram post about billionaires - why they were inherently problematic, why they didn't deserve it and just a litany of complaints about their wealth. And what it was gesturing at was the broad agenda we increasingly see of taxing income, corporations and wealth much more aggressively - which made we wonder, why do we worry so much about income or wealth instead of consumption?
+
+So I decided to make a poll on Instagram, asking people if they would rather:
 - Earn <span>$</span>100,000 a year, but only be able to spend <span>$</span>25,000 a year
 - Earn <span>$</span>100,000 a year and have <span>$</span>1 million, but only be able to spend <span>$</span>25,000 a year
 - Earn <span>$</span>80,000 a year and be able to spend <span>$</span>80,000 a year
