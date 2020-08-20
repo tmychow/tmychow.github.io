@@ -70,12 +70,7 @@ Because it is a refund, there is an incentive to declare all of one's consumptio
 
 Neither personal nor corporate income taxes make much sense. And you probably shouldn't have one but not the other, because it creates a huge incentive for arbitrage - that is, you create an incentive for individuals to incorporate or vice versa. Wealth taxes don't make much sense either, because they are taxes on saved income that produce growth. Consumption is the most meaningful yardstick for people's quality of life and inequality - a progressive consumption tax not only creates an incentive to save and invest, it is also the best way to target inequality between people's well-being levels.
 
-Notice I have't looked at the size of government revenue or the degree of redistribution. This is because once we have arrived at optimal pro-growth tax system of a consumption tax, we can then figure out what we want from those criteria. That is, we can fiddle with the specific rates on the consumption tax to make it raise the revenue we want and make it as progressive as we want. But in order to do so, we need a pro-growth tax structure that a consumption tax provides.
-
-
-
-
-
+Notice I haven't touched upon the size of government revenue or the degree of redistribution - that's because we can fiddle with the specific rates to meet those criterion. Although even a revenue-maximising consumption tax may not be large enough for the "eat the rich" crowd, I am not proposing abolishing all other taxes. But I am simply pointing out that there is a lot of revenue and redistribution available from first-best options like Pigouvian taxes and taxes on economic rents, as well as second-best options such as the consumption tax. And so we should be looking there, before we look at the more popular remedies of wealth taxes and income taxes.
 
 
 
