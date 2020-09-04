@@ -92,10 +92,10 @@ I don't want to litigate the details of whether we need fiscal stimulus, but I w
 In line with the new view[^16], I will treat fiscal stimulus as a meaningful part of the response. Not only is this confirmed by various empirical studies[^17][^18][^19], but one of my favourite economists, Emi Nakamura, has written a particularly illustrative paper on this with co-author Jon Steinsson. They take advantage of interstate variation in military spending in the US to show that the data is more consistent with New Keynesian models. Those models imply that there are non-trivial fiscal multipliers, conditional upon being in a liquidity trap where monetary policy is expansionary[^20]. These are pretty reasonable conditions when we are faced with a significant recession.
 
 [^16]: [Furman 2016](https://voxeu.org/article/new-view-fiscal-policy-and-its-application)
-[^17]: [Hemming, Kell and Mahfouz](https://www.elibrary.imf.org/doc/IMF001/06918-9781451874716/06918-9781451874716/Other_formats/Source_PDF/06918-9781451919295.pdf)
+[^17]: [Hemming, Kell and Mahfouz 2002](https://www.elibrary.imf.org/doc/IMF001/06918-9781451874716/06918-9781451874716/Other_formats/Source_PDF/06918-9781451919295.pdf)
 [^18]: [Ramey 2011](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jel.49.3.673)
 [^19]: [Ramey 2019](https://econweb.ucsd.edu/~vramey/research/Ramey_Fiscal_JEP.pdf)
-[^20]: [Nakamura and Steinsson](https://eml.berkeley.edu/~enakamura/papers/fiscal.pdf)
+[^20]: [Nakamura and Steinsson 2014](https://eml.berkeley.edu/~enakamura/papers/fiscal.pdf)
 
 Having established the need for both monetary and fiscal tools, we could adjust the specifics of various spending programs or credit/liquidity facilities. But instead of getting stuck in the weeds, I want to look at more radical changes to our stabilisation options.
 
@@ -129,7 +129,7 @@ And compared to a price level target, a nGDPL target is more effective against A
 
 [^25]: [Bean 2013](https://www.bis.org/review/r130228c.pdf)
 
-Consider what happens when there is a negative AS shock. Stabilising the price level forces all the burden of the shock onto a reduction in output. By contrast, stabilising nGDPL is more forgiving, allowing for some increase in inflation and some decrease in output. (My crappy MS Paint diagram is below.)
+Consider what happens when there is a negative AS shock. Stabilising the price level forces all the burden of the shock onto a reduction in output. By contrast, stabilising nGDPL is more forgiving, allowing for some increase in inflation and some decrease in output. (My terrible MS Paint diagram is below.)
 
 ![Shock and Response](/assets/shock.png){:width="650px"}
 
