@@ -9,7 +9,7 @@ tags: economics effortposts
 
 (**TL;DR** because I don't know who, if anyone reads my blog, and I certainly don't expect people to read through 4,000 words of theory: )
 
-2020 marks the second time in under 15 years that we have had an out-of-sample economic crisis. And though the response this time was improved from 2008, which was in turn better than in 2009, it hasn't been perfect - the recent update of the Federal Reserve mandate and the release of the Bank of England's research agenda are a testament to that. It is particularly frustrating to see some of the same issues crop up again and again, due to political considerations and economic constraints. It therefore is worth retracing our steps - to see why stabilisation policy is the way it is, where it has fallen short of our goals and how it can be improved.
+2020 marks the second time in under 15 years that we have had an out-of-sample economic crisis. And though the response this time was improved from 2008, which was in turn better than in 1929, it hasn't been perfect - the recent update of the Federal Reserve mandate and the release of the Bank of England's research agenda are a testament to that. It is particularly frustrating to see some of the same issues crop up again and again, due to political considerations and economic constraints. It therefore is worth retracing our steps - to see why stabilisation policy is the way it is, where it has fallen short of our goals and how it can be improved.
 
 **What is the aim of stabilisation policy?**
 
