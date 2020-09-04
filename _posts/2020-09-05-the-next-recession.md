@@ -157,7 +157,7 @@ But perhaps most importantly, a temporary deployment of a non-traditional target
 [^29]: [Romer 2014](https://eml.berkeley.edu/~cromer/Lectures/Romer%20Regime%20Shift%20NBER%20Macroeconomics%20Annual.pdf)
 [^30]: [Romer 2012](https://thebrowser.com/interviews/christina-romer-on-learning-great-depression)
 
-Because of its inherently countercyclical guardrails, its in-built dampening of AS shocks and its capacity to provide a powerful boost at the effective lower bound, we should deploy a temporary nGDPL target as an options when faced with a serious recessionary threat.
+Because of its inherently countercyclical guardrails, its in-built dampening of AS shocks and its capacity to provide a powerful boost at the effective lower bound, we should deploy a temporary nGDPL target when faced with a serious recessionary threat.
 
 **Where does fiscal policy go from here?**
 
@@ -169,7 +169,7 @@ To be more specific, a useful indicator is the Sahm Rule - developed by former F
 
 **How can we improve our stabilisation infrastructure?**
 
-For those who subscribe, you will have seen me repeatedly mention the FPUC, which was the extra <span>$</span>600 a week in unemployment benefits the US government was providing up until the end of July. You may have even seen the campaign of #Savethe600. One of the most apparent difficulties was that even though it solely gave money to those who were getting unemployment insurance, for which there is already some sort of payments infrastructure, the money took forever to get to people. 
+For those who subscribe to the newsletter, you will have seen me mention the FPUC once every fortnight - that was the extra <span>$</span>600 a week in unemployment benefits the US government was providing up until the end of July. You may have even seen the campaign of #Savethe600. One of the most apparent difficulties was that even though it solely gave money to those who were getting unemployment insurance, for which there is already some sort of payments infrastructure, the money took forever to get to people. 
 
 To go on a tangent, think back to 2008 and the immediate aftermath of the financial crisis. Even as the Bank of England's base rate fell, many banks did not lower the interest rates they charged consumers in a commensurate fashion. Why? Because they were in the process of balancing the book and deleveraging. 
 
