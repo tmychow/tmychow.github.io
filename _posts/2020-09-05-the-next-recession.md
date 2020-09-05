@@ -9,7 +9,7 @@ tags: economics effortposts
 
 **TL;DR** (because I don't know who (if anyone) reads my blog and I certainly don't expect most people to go through nearly 6,000 words of optimal stabilisation theory): Our business cycle stabilisation policy should aim to maintain low and stable inflation as well as minimise the output gap. The pre-2008 consensus was that the use of the flexible inflation targeting regime within monetary policy was enough to do the job. But the lowering natural rate of interest has meant that we are more likely to hit the effective lower bound, while central bankers have proven that distinguishing between demand and supply-side shocks is difficult to do in real time. These constraints on our monetary policy tools mean we need to update our toolkit. In times of significant downturns, we should temporarily target the nominal GDP level for the foreseeable future. This is inherently countercyclical, dampens supply-side shocks and is effective at keeping us from the effective lower bound. We should also make greater use of automatic fiscal stabilisers, and provide universal cash transfers when the Sahm Rule indicates we are in recession. Finally, all of this should be buttressed by providing savings accounts at central banks to the entire population, allowing the monetary and fiscal mechanisms to be more effective.) 
 
-**Alternatively**: Skip past the first three sections to get to the juicy stuff on policy prescriptions! But skip at your own peril - history and context matters.
+**Alternatively**: Skip past the first three sections to get to the juicy stuff on policy prescriptions! But skip at your own peril - there's a reason the history and context is there.
 
 -----
 
