@@ -34,7 +34,7 @@ The consequence of all of this is that stabilisation policy since the 1990s in d
 [^2]: [Powell 2018](https://www.federalreserve.gov/newsevents/speech/files/powell20180824a.pdf)
 [^3]: [Blanchard, Dell'Ariccia and Mauro 2010](https://www.imf.org/external/pubs/ft/spn/2010/spn1003.pdf)
 
-**Where have we failed?**
+**How is monetary policy constrained?**
 
 The foundations of this macroeconomic consensus was shaken to its core in 2008. The premise of this regime is the Phillips Curve, and unfortunately, she is a fickle mistress. Firstly, consider what happens when there is an aggregate supply shock - for example, the price of oil skyrocketing. This pushes inflation upwards but output downwards - a central bank faced with an AS shock is forced to either further reduce output or accept a deviation from the inflation target. Secondly, the sensitivity of inflation to the output gap has reduce over time[^4]. That means the tradeoff when faced with an AS shock has changed too.
 
@@ -66,6 +66,8 @@ Another more popular option is quantitative easing - this is where central banks
 The failure of QE has led some voices to call for QE for the people, or helicopter money. Popularised by Bernanke's Japan paper[^10], this is basically just the central bank giving money to individuals. This isn't a bad idea, and there are good arguments made by made by [Mark Blyth, Eric Lonergan and Simon Wren-Lewis](https://www.theguardian.com/business/economics-blog/2015/may/21/now-the-bank-of-england-needs-to-deliver-qe-for-the-people) for why it's useful. But fundamentally, this represents a reasonably big change in the legal mandate and economic role of central banks, as it veers into the territory of fiscal policy.
 
 [^10]: [Bernanke 1999](http://www.princeton.edu/~pkrugman/bernanke_paralysis.pdf)
+
+**How is fiscal policy constrained?**
 
 So let's look at fiscal stimulus. Time delay is a significant problem this regard - one of the key principles of fiscal stimulus is that it should be timely[^11].  When fiscal stimulus arrives in a tardy fashion, it means that a greater amount is required as the country sees its economic output fall even further. There may even be hysteresis effects, where a reduction in AD ends up leading to a reduction in the potential output of an economy - for example, people who are unemployed for a long time may lose their skills or never return to the workforce. As such, time is of the essence.
 
