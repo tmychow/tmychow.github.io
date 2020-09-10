@@ -171,7 +171,7 @@ $$ \ln{(y(t))} = (1-e^{-\lambda t}) \ln(y^*) + e^{-\lambda t} \ln(y(0)) $$
 
 $$ \ln{(y(t))} - \ln{(y(0))} = (1-e^{-\lambda t}) \frac{\alpha}{1-\alpha-\beta} \ln{(s_k)} + (1-e^{-\lambda t}) \frac{\beta}{1-\alpha-\beta} \ln{(s_h)} - (1-e^{-\lambda t}) \frac{\alpha+\beta}{1-\alpha-\beta} \ln{(n+g+\delta)} -  (1-e^{-\lambda t}) \ln(y(0)) $$
 
-For the sake of brevity I am not going to list out the tests for all the samples. Instead, I will only show it for one sample per test. The results below are a snapshot of all of the results corresponding with Tables III, IV and V of MRW. We can see that there is no tendency for absolute convergence, there is some tendency for conditional convergence when controlling for savings and population, and there is a strong tendency for conditional convergence when controlling for savings, population and human capital. A nice graphical description is given following the code.
+For the sake of brevity I am not going to list out the tests for all the samples. Instead, I will only show it for one sample per test. The results below are a snapshot of all of the results corresponding with Tables III, IV and V of MRW.
 
 ```
 converge1 <- lm(I(log(gdp85)-log(gdp60)) ~ log(gdp60), data = nonoil)
@@ -236,6 +236,37 @@ Residual standard error: 0.327 on 93 degrees of freedom
 Multiple R-squared:  0.4855,	Adjusted R-squared:  0.4633 
 F-statistic: 21.94 on 4 and 93 DF,  p-value: 8.987e-13
 ```
+<br>
+
+We can see that there is no tendency for absolute convergence, there is some tendency for conditional convergence when controlling for savings and population, and there is a strong tendency for conditional convergence when controlling for savings, population and human capital. A nice graphical description is given following the code. Indeed, we can create a nice graphical display of all of this. (Unlike MRW, I elected to use the 98 country sample instead of the 75 country one for the graphics.)
+
+```
+library(ggplot2)
+library(gridExtra)
+
+controlx1 <- lm(log(gdp60) ~ log(invest/100) + log(popgrowth/100 + 0.05), data = nonoil)
+controlx1res <- residuals(controlx1)
+
+
+controly1 <- lm(gdpgrowth ~ log(invest/100) + log(popgrowth/100 + 0.05), data = nonoil)
+controly1res <- residuals(controly1)
+
+
+controlx2 <- lm(log(gdp60) ~ log(invest/100) + log(popgrowth/100 + 0.05) + log(school/100), data = nonoil)
+controlx2res <- residuals(controlx2)
+
+controly2 <- lm(gdpgrowth ~ log(invest/100) + log(popgrowth/100 + 0.05) + log(school/100), data = nonoil)
+controly2res <- residuals(controly2)
+
+
+p1 <- ggplot(data = nonoil, mapping = aes(x=log(gdp60), y=gdpgrowth)) + geom_point() + geom_smooth(method = "lm") + labs(title = "A. Unconditional", x = "", y="")
+p2 <- ggplot(data = nonoil, mapping = aes(x=(mean(log(gdp60))+controlx1res), y=(mean(gdpgrowth)+controly1res))) + geom_point() + geom_smooth(method = "lm") + labs(title = "B. Conditional on Savings and Population Growth", x = "", y="")
+p3 <- ggplot(data = nonoil, mapping = aes(x=(mean(log(gdp60))+controlx2res), y=(mean(gdpgrowth)+controly2res))) + geom_point() + geom_smooth(method = "lm") + labs(title = "C. Conditional on Savings, Population Growth and Human Capital", x = "", y="")
+
+grid.arrange(p1, p2, p3, ncol=1, top = "Unconditional versus Conditional Convergence", left = "% Growth Rate of GDP 1960-1985", bottom = "Log GDP per capita in 1960")
+```
+
+![Convergence](/assets/convergence.png){:width="675px"}
 
 MRW go on to conclude by talking about interest rate differentials and capital movements, which while interesting, are not as relevant to the growth theories from the previous parts in the series. But hopefully this has illustrated some of the more theoretical aspects of Part I - and even if the paper is full of endogeneity issues and is rather outdated within the growth theory literature, it does gesture towards the idea that an augmented Solow model can be a useful and accurate description of growth in the real world. And perhaps more importantly, I could very easily have taken a modern dataset and applied the same statistical procedures to figure out for myself whether the claims of MRW hold true to this day - so this is a nice demonstration that as technical as economics can get sometimes, there is a lot of cool stuff you can do simply within the confines of your own home.
 
