@@ -57,7 +57,7 @@ ol {
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Montserrat, Arial, monospace;
     color: #333;
 }
-pre {
+code {
     white-space: pre-wrap;
 }
 footer {
@@ -87,7 +87,7 @@ footer {
 }
 /* Style page content */
 .container {
-  width: 750px;
+  width: 800px;
   margin-left: 160px; /* Same as the width of the sidebar */
   padding: 0px 10px;
 }
