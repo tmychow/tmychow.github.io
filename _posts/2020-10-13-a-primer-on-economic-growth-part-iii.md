@@ -195,6 +195,8 @@ F-statistic: 3.613 on 1 and 96 DF,  p-value: 0.06033
 
 converge4 <- lm(I(log(gdp85)-log(gdp60)) ~ log(gdp60) + log(invest/100) + log(popgrowth/100 + 0.05), data = nonoil)
 
+summary(converge4)
+
 Residuals:
      Min       1Q   Median       3Q      Max 
 -1.07648 -0.15215  0.01185  0.19595  0.96056 
@@ -213,6 +215,8 @@ Multiple R-squared:  0.4019,	Adjusted R-squared:  0.3828
 F-statistic: 21.05 on 3 and 94 DF,  p-value: 1.622e-10
 
 converge7 <- lm(I(log(gdp85)-log(gdp60)) ~ log(gdp60) + log(invest/100) + log(popgrowth/100 + 0.05) + log(school/100), data = nonoil)
+
+summary(converge7)
 
 Residuals:
      Min       1Q   Median       3Q      Max 
