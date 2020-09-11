@@ -28,4 +28,4 @@ In [Part I]({% post_url 2020-07-10-a-primer-on-economic-growth-part-I %}), we wi
 
 We will go on to examine the "big history" reasons for why countries are able to grow their factors of production and improve their productivity in [Part II]({% post_url 2020-07-24-a-primer-on-economic-growth-part-II %}) - that is, the fundamental rather than proximate explanation for growth.
 
-Finally, we will return to these big questions in [Part III]({% post_url 2020-09-13-a-primer-on-economic-growth-part-III %}), applying the framework we will have established to explain real world datasets.
+Finally, we will return to these big questions in [Part III]({% post_url 2020-09-13-a-primer-on-economic-growth-part-III %}), applying the theoretical framework we will have established to explain real world datasets, with a splash of R-aided econometrics.
