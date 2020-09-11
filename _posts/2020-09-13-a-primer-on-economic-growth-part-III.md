@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Primer on Economic Growth: Part III - Mankiw, Romer and Weil"
-date: 2020-10-13
+date: 2020-09-13
 tags: economics effortposts
 ---
 
