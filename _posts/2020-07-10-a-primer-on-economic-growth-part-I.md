@@ -55,9 +55,9 @@ $$ \dot{K} = I - \delta K $$
 
 Since capital can accumulate, we don't need to worry about limits on population growth, and so we take the population growth rate to be $n$. By some algebraic manipulations we get the *Fundamental Dynamic Equation* of the Solow model where $k=\frac{K}{L}$.
 
-$$ \dot{k} = s \bar{A} k - (n+\delta)k $$
+$$ \dot{k} = \bar{s} \bar{A} k - (n+\delta)k $$
 
-What this says is that the change in the capital per worker $\dot{k}$ is positively correlated with the per capita savings $s \bar{A} k$ and negatively correlated with the population growth rate $n$ and the depreciation rate $\delta$. Furthermore, there is a theoretical point $k^*$ where $\dot{k}=0$ and so the investment in new capital is just enough to offset the population increase and capital depreciation.
+What this says is that the change in the capital per worker $\dot{k}$ is positively correlated with the per capita savings $\bar{s} \bar{A} k$ and negatively correlated with the population growth rate $n$ and the depreciation rate $\delta$. Furthermore, there is a theoretical point $k^*$ where $\dot{k}=0$ and so the investment in new capital is just enough to offset the population increase and capital depreciation.
 
 > This is all very mathsy. What does this mean?
 
@@ -94,7 +94,7 @@ $$ L_{at} = \bar{\ell} \bar{L} $$
 
 $$ g_Y^* = \frac{3}{2} \bar{z} \bar{\ell} \bar{L} $$
 
-> Wait a second. Tou've assumed that labour never changes!
+> Wait a second. You've assumed that labour never changes!
 
 This is an incredibly stylised model - but the insights remain useful, because it allows for a steady growth path while being consistent with the empirical evidence of the conditional convergence that both models predict [^8].
 
