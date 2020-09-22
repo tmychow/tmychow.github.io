@@ -11,9 +11,9 @@ In Part I, we will consider three main paradigms about economic growth: Malthusi
 
 Thomas Malthus had a theory of growth in 1798, resulting in this production function:
 
-$$ Y = f (L,N) $$
+$$ Y = f (T,L) $$
 
-A production function relates output with the inputs in production. Malthus saw the total economic output $Y$ as being related to the land used $L$ and the labour used $N$ by some function $f$. Since the amount of land available is fixed, the only way to increase aggregate production is to increase the number of people.
+A production function relates output with the inputs in production. Malthus saw the total economic output $Y$ as being related to the land used $T$ and the labour used $L$ by some function $f$. Since the amount of land available is fixed, the only way to increase aggregate production is to increase the number of people.
 
 It seems reasonable to suggest that there are diminishing returns from increasing the number of workers used. This is because we assume that employers would hire the most efficient worker available, so the additional worker would always be less productive. Given these diminishing returns, economic output does not increase proportionally to the labour input. This would mean that if the human population kept expanding, we would run out of resources needed to sustain ourselves.
 
@@ -41,29 +41,23 @@ It is unsurprising that death rates fall over time as technology improves and we
 
 The Malthusian model seems to fail once we go beyond the initial Malthusian trap. The neoclassical theory of economic growth was pioneered by Nobel Laureate Robert Solow and Trevor Swan in 1956. The Solow-Swan production model replaces the input of land with capital, where capital describes tangible manmade objects used in production e.g. machinery, buildings, and equipment. Because capital can be produced and accumulated, this represents a substantial shift from land in the Malthusian model. The Solow model has the following production function:
 
-$$ Y = A f(K,N) $$
+$$ Y = \bar{A} f(K,L) = \bar{A} K^\frac{1}{3} L^\frac{2}{3} $$
 
-Again, we have a function $f$ describing output $Y$. However, we now have the capital used $K$ and productivity level $A$, alongside the labour used $N$. If we imagine we had a society and cloned it, we would have $2K$ and $2N$. Unsurprisingly, the result of that would be $2Y$ - that is, there are constant returns to scaling up both factors of production. However, this does not hold for only increasing one factor of production as in the Malthusian model. Imagine if we had 10 accountants and 10 computers - although having 20 accountants and 20 computers might double their output, I suspect having 10 accountants and 20 computers would not.
+Again, we have a function $f$ describing output $Y$. However, we now have the capital used $K$ and productivity level $\bar{A}$, alongside the labour used $L$. If we imagine we had a society and cloned it, we would have $2K$ and $2L$. Unsurprisingly, the result of that would be $2Y$ - that is, there are constant returns to scaling up both factors of production. However, this does not hold for only increasing one factor of production as in the Malthusian model. Imagine if we had 10 accountants and 10 computers - although having 20 accountants and 20 computers might double their output, I suspect having 10 accountants and 20 computers would not.
 
-We can use our production function and look at output per person.
+Let us make a few further assumptions. For one, we will assume that all economic output becomes income, and households save a certain proportion $\bar{s}$ of their income $Y$. All of these savings are used for investments $I$.
 
-$$ \frac{Y}{N} = z f (\frac{K}{N}, 1)  $$
-
-What this shows is that the output per person, which is equal to income per person, is determined by the amount of capital per worker $\frac{K}{N}$ and by the level of productivity $z$. What this suggests is that we can increase per capita income by capital accumulation and technological progress.
-
-Let us make a few further assumptions. For one, we will assume that all economic output becomes income, and households save a certain proportion $s$ of their income $Y$. All of these savings are used for investments $I$.
-
-$$ S = s Y = I $$
+$$ S = \bar{s} Y = I $$
 
 Capital depreciates over time, since machinery faces wear and tear, and obselete equipment needs to be upgraded. This occurs at the rate $\delta$. Consequently, the change in the total amount of capital $\dot{K}$ is equal to investment minus depreciation.
 
 $$ \dot{K} = I - \delta K $$
 
-Since capital can accumulate, we don't need to worry about limits on population growth, and so we take the population growth rate to be $n$. By some algebraic manipulations we get the *Fundamental Dynamic Equation* of the Solow model where $k=\frac{K}{N}$.
+Since capital can accumulate, we don't need to worry about limits on population growth, and so we take the population growth rate to be $n$. By some algebraic manipulations we get the *Fundamental Dynamic Equation* of the Solow model where $k=\frac{K}{L}$.
 
-$$ \dot{k} = s A k - (n+\delta)k $$
+$$ \dot{k} = s \bar{A} k - (n+\delta)k $$
 
-What this says is that the change in the capital per worker $\dot{k}$ is positively correlated with the per capita savings $sA k$ and negatively correlated with the population growth rate $n$ and the depreciation rate $\delta$. Furthermore, there is a theoretical point $k^*$ where $\dot{k}=0$ and so the investment in new capital is just enough to offset the population increase and capital depreciation.
+What this says is that the change in the capital per worker $\dot{k}$ is positively correlated with the per capita savings $s \bar{A} k$ and negatively correlated with the population growth rate $n$ and the depreciation rate $\delta$. Furthermore, there is a theoretical point $k^*$ where $\dot{k}=0$ and so the investment in new capital is just enough to offset the population increase and capital depreciation.
 
 > This is all very mathsy. What does this mean?
 
@@ -88,27 +82,29 @@ The case of the Asian Tigers points to a broader issue with the basic Solow mode
 
 **What is the endogenous growth theory?**
 
-We know from above that if there are diminishing returns to factors, factor accumulation cannot explain long-run economic growth. As such, we assumed that growth in the long-run was  determined by the value of the $A$, the productivity level of an economy. With the AK model of endogenous growth, we will do away with that by considering what happens if there aren't diminishing returns to capital - instead, we assume constant returns in its production function.
+We know from above that if there are diminishing returns to factors, factor accumulation cannot explain long-run economic growth. As such, we assumed that growth in the long-run was determined exogeneously by the value of the $\bar{A}$, the productivity level of an economy. With the Romer model of endogenous growth, we will do away with that by considering what happens if we endogenise the process of productivity gains. That is, labour is split between production and research - with ideas being non-rivalrous, we are able to get increasing returns in the model such that there isn't an eventual steady state.
 
-$$ Y = A f(K) $$
+$$ Y = f(A,K,L) = A K^\frac{1}{3} L^\frac{2}{3} $$
 
-$$ \dot{k} = s A k - (n+\delta)k $$
+$$ \dot{A} = \bar{z} A L_{at} $$
 
-The crucial change here is that because both $s A k$ and $(n+\delta)k$ are linear, they are unlikely to cross except when $k=0$, meaning there isn't a steady state.
+$$ \bar{L} = L_{yt} + L_{at} $$
 
-The capital per worker will keep increasing as long as $s A > n+\delta$, meaning that per capita output can keep growing.
+$$ L_{at} = \bar{\ell} \bar{L} $$
 
-> Wait a second. Not only are you assuming constant returns to capital, you've assumed that labour has no role in production!
+$$ g_Y^* = \frac{3}{2} \bar{z} \bar{\ell} \bar{L} $$
 
-This is an incredibly stylised model that can have some rather weird implications. Empirical evidence of the conditional convergence the Solow model predicts suggests the AK model does not fit reality very well in the long-run[^8].
+> Wait a second. Tou've assumed that labour never changes!
+
+This is an incredibly stylised model - but the insights remain useful, because it allows for a steady growth path while being consistent with the empirical evidence of the conditional convergence that both models predict [^8].
 
 [^8]: [Barro 1991](http://piketty.pse.ens.fr/files/Barro91.pdf)
 
-However, what the AK model shows us is that when there are constant returns to capital, investment alone can drive economic growth. These constant returns could be caused by positive externalities to capital accumulation, such as "improvements in the level of organisation, technical change, better social overhead facilities in the form of transport and communication networks"[^9]. That is, even if firms individually have diminishing returns, there can be non-diminishing returns from capital when firms group up together.
+What the Romer model uniquely shows us is that even when there are diminishing returns to capital, ideas alone can drive economic growth. This could be caused by positive externalities to capital accumulation, such as "improvements in the level of organisation, technical change, better social overhead facilities in the form of transport and communication networks"[^9]. That is, even if firms individually have diminishing returns, there can be non-diminishing returns when firms group up together due to the productivity gains.
 
 [^9]: [Frankel 1962](https://www.jstor.org/stable/1812179)
 
-Since most empirical evidence rejects the AK model in the long-run, it is useful to think about endogenous growth as a way to make capital accumulation provide growth for a bit longer in the medium-run, while productivity remains the driver in the long-run. Productivity is a complicated factor that takes two forms - of technology and efficiency in resource allocation, and it is worth exploring the foundational cause of these two types of improvements.
+As such, it is useful to think about endogenous growth as a way to make productivity the driver of growth in the long-run, without forgetting about the transition dynamics of capital accumulation in the shorter run. Productivity is a complicated factor that takes two forms - of technology and efficiency in resource allocation, and it is worth exploring the foundational cause of these two types of improvements.
 
 **Where does the growth of technology come from?**
 
