@@ -36,7 +36,7 @@ For example, a study has looked at over 8,000 labour markets in the USA, each de
 [^G]: [Azar, Berry and Marinescu 2019](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3456277)
 [^C]: [Dal Bó, Finan and Rossi 2013](https://eml.berkeley.edu/~ffinan/Finan_StateCap.pdf)
 
-The consequence is that a minimum wage might not cause any disemployment effects, since the wages being paid are currently depressed what a competitive equilibrium would produce due to monopsony power.
+The consequence is that a minimum wage might not cause any disemployment effects, since the wages being paid are currently depressed below what a competitive equilibrium would produce due to monopsony power.
 
 **What does the empirical work on minimum wages say?**
 
@@ -64,7 +64,7 @@ There is a relative consensus that a small to moderate rise in the minimum wage 
 [^L]: [BLS 2020](https://www.bls.gov/opub/reports/minimum-wage/2019/home.htm)
 [^M]: [Sherk 2013](http://thf_media.s3.amazonaws.com/2013/pdf/ib3866.pdf)
  
-However, empirical evidence suggests that even if imperfect targeted, the minimum wage remains useful towards increasing family incomes at the bottom end - with clear positive effects on family incomes below the 20th percentile. [^H]
+However, empirical evidence suggests that even if imperfect targeted, the minimum wage remains useful towards increasing family incomes at the bottom end - with clear positive effects on family incomes below the 20th percentile.
 [^H]: [Dube 2017](http://ftp.iza.org/dp10572.pdf)
 
 This may be because the minimum wage increases can lead to wage increases for people currently earning above the minimum wage in order to maintain the compensating wage differential. Suppose a cashier earns <span>$</span>7.5 an hour and a mechanic with a less comfortable working environment and a higher risk of bodily harm earns <span>$</span>10 an hour - if the minimum wage rises to <span>$</span>10 an hour, many mechanics may become cashiers if their wages don't change, since they are no longer being compensated for the less pleasant working conditions. Consequently, a rise in the minimum wage is associated with wage rises for workers up to the 25th percentile, or up to those earning 175% of the minimum wage[^I].
