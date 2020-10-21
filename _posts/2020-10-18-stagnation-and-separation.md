@@ -35,7 +35,7 @@ Let's first consider the stagnation of incomes. The EPI diagram makes it look ra
 Firstly, the EPI data uses a Consumer Price Index as its price deflator to adjust into real terms, while the FRED series uses the Personal Consumption Expenditures index. Across long time horizons, these differences in measurement decisions make a difference - the result is that the CPI is consistently larger than PCE, resulting in a seemingly lower real wage[^2]. Secondly, the EPI data looks at hourly wages - this ignores non-wage benefits which are included in labour compensation, and are becoming an increasingly large component of compensation as seen below[^3]. Correcting for these two issues alone brings the data much closer together, and at least till 2007, changes the data from a small decline to a modest increase, including for middle America[^4].
 
 ![Inflation Measures](/assets/pcecpi.png){:width="675px"}[^5]
-![Compensation Wages](/assets/compensationwage){:width="675px"}[^6]
+![Compensation Wages](/assets/compensationwage.png){:width="675px"}[^6]
 
 [^2]: [Sacerdote 2017](https://www.nber.org/papers/w23292)
 [^3]: [Fitzgerald 2007](https://www.minneapolisfed.org/article/2007/has-middle-america-stagnated)
@@ -47,7 +47,7 @@ But there remains a disparity between the mean and the median - this is likely b
 
 [^7]: [Daly and Pedtke 2018](https://www.frbsf.org/our-district/about/sf-fed-blog/revisiting-wage-growth-august-2018/)
 
-![Panel Quintile](/assets/panelquintile.png){:width="675px"}[^8]
+![Panel Quintile](/assets/panelquintile.jpg){:width="675px"}[^8]
 
 [^8]: [Roberts 2018](https://medium.com/@russroberts/do-the-rich-capture-all-the-gains-from-economic-growth-c96d93101f9c)
 
@@ -81,4 +81,4 @@ We began with EPI's rather depressing set of portrayals. And after a lot of mess
 
 [^16]: [Stansbury and Summers 2020](https://www.brookings.edu/wp-content/uploads/2020/03/Stansbury-Summers-Conference-Draft.pdf)
 
-So despite the mthodological issues associated with EPI, the conclusions remain stark - labour markets are flawed, and they are flawed in deeply pernicious and dangerous ways, which threaten the American Dream and the socio-economic outcomes associated with that.
+So despite the methodological issues associated with EPI, the conclusions remain, and they remain stark. Labour markets are flawed, and they are flawed in deeply pernicious and dangerous ways, threatening the American Dream and the socio-economic prosperity associated with that integral ideal.
