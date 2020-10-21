@@ -15,7 +15,7 @@ $$MPL=\frac{\delta Y}{\delta L}=(1-\alpha) A K^{\alpha} L^{-\alpha}=$$
 
 $$W = P \times MPL$$
 
-$$ \text{real} W = MPL = (1-\alpha) \frac{Y}{L} $$
+$$ \text{real} \ W = MPL = (1-\alpha) \frac{Y}{L} $$
 
 The coefficients $\alpha$ and $1-\alpha$ represent capital and labour's shares of output in this perfectly competitive world. And so we can see that real wages are determined by labour's share of output and labour productivity, and ceteris paribus, an increase in productivity should increase real wages. This is the benchmark model we can compare the real world to. 
 
