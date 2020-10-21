@@ -10,11 +10,14 @@ Watching the presidential and vice-presidential debates was a rather lackluster 
 While it may seem obvious why we want people's earnings to keep growing, why should labour compensation and productivity be inherently linked? Consider an economy described by a Cobb-Douglas production function with constant returns to scale. If we live in a world of perfect competition, the representative firm will set the cost of their marginal worker to be equal to what they get out of that worker - that is, the wage will equal the price times the marginal product of labour. The price of the good in this one-good economy is the price level of the economy, making the real wage the marginal product of labour.
 
 $$Y=A K^\alpha L^{1-\alpha}$$
+
 $$MPL=\frac{\delta Y}{\delta L}=(1-\alpha) A K^{\alpha} L^{-\alpha}=$$
+
 $$W = P \times MPL$$
+
 $$ \text{real} W = MPL = (1-\alpha) \frac{Y}{L} $$
 
-The coefficients $\alpha$ and $\1-\alpha$ represent capital and labour's shares of output in this perfectly competitive world. And so we can see that real wages are determined by labour's share of output and labour productivity, and ceteris paribus, an increase in productivity should increase real wages. This is the benchmark model we can compare the real world to. 
+The coefficients $\alpha$ and $1-\alpha$ represent capital and labour's shares of output in this perfectly competitive world. And so we can see that real wages are determined by labour's share of output and labour productivity, and ceteris paribus, an increase in productivity should increase real wages. This is the benchmark model we can compare the real world to. 
 
 So how does the real world compare to these two goals? One of the most prominent critiques against the current labour market is by the Economic Policy Institute, which famously published the following graphs. It would seem apparent that hourly compensation has stagnated since the 1970s. It would also seem that the previously tightly nit variables of productivity and compensation have decoupled since 1973. In other words, people's incomes are not growing as quickly as before and people's incomes are not growing alongside how hard they work. So is the American Dream dead?
 
