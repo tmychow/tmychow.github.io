@@ -5,7 +5,7 @@ date: 2020-11-02
 tags: economics takes
 ---
 
-In 2010, Minneapolis Federal Reserve President Kocherlakota fired the opening salvo for the neo-Fisherites with [his Michigan speech](https://www.minneapolisfed.org/speeches/2010/inside-the-fomc). In this speech, he controversially argued that keeping interest rates low for a long period of time would lead to deflation in the long run. In doing so, he turned the entire premise of modern monetary policy on its head. And though he has since retracted this view, this kickstarted countless back-and-forth blog posts and papers in its aftermath - so what has happened to this neo-Fisherite view since then? And how does it interact with the neo-Wicksellian consensus, most prominently argued for by Mike Woodford?
+It has been a decade since Minneapolis Federal Reserve President Narayana Kocherlakota fired the opening salvo for the neo-Fisherites with [his Michigan speech](https://www.minneapolisfed.org/speeches/2010/inside-the-fomc). In this speech, he controversially argued that keeping interest rates low for a long period of time would lead to deflation in the long run. In doing so, he turned the entire premise of modern monetary policy on its head. And though he has since retracted this view, this kickstarted countless back-and-forth blog posts and papers in its aftermath - so what has happened to this neo-Fisherite view since then? And how does it interact with the neo-Wicksellian consensus, most prominently argued for by Michael Woodford?
 
 **The Fisher Equation**
 
