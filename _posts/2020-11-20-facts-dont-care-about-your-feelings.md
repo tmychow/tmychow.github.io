@@ -11,7 +11,7 @@ Today is the Equal Pay Day 2020 in the United Kingdom. It is so named, because b
 
 When we are talking about the gender pay gap, we are referring to the disparity between men and women with respect to their pay in the workplace. This may involve "taste-based discrimination", where some firms are discriminatory and pay women less for the same job.
 
-> In a free market, won't non-discriminatory firms hire competent workers that have been discriminated against, meaning that a wage gap doesn't form[^1]?
+> In a free market, won't non-discriminatory firms hire competent workers that have been discriminated against, meaning that a wage gap doesn't form?[^1]
 
 [^1]: [Becker 1975](http://press.uchicago.edu/ucp/books/book/chicago/E/bo22415931.html)
 
