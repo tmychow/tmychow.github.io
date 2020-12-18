@@ -4,7 +4,6 @@ title: "Mr Medlock and the Classics"
 date: 2020-12-19
 tags: economics effortposts
 ---
-Mr. Medlock and the Classics
 
 **Disclaimer**: this has been tagged as an effortpost due to the time and work put in. However, this is very much a work-in-progress that I will add to and edit over time - right now, it's better described as a collection of links than a fully fleshed-out piece.
 
