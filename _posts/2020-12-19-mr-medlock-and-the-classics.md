@@ -7,6 +7,8 @@ tags: economics effortposts
 
 **Disclaimer**: this has been tagged as an effortpost due to the time and work put in. However, this is very much a work-in-progress that I will add to and edit over time - right now, it's better described as a collection of twitter and blogpost links than necessarily a fully fleshed-out piece. Any mistakes or misrepresentations of people I've linked to are mine and mine alone, and I would be grateful if they were sent my way.
 
+-----
+
 Oftentimes, the discourse around government intervention in the economy is couched in language and framing which implicitly assumes that efficient outcomes from unfettered markets are the norm rather than the exception. And by and large, I believe in that - I think our first instinct should be to think about tweaking the price mechanism and looking for market-based solutions. But there is a competing set of claims which is much less sceptical about intervening in markets. And although I'm not persuaded they are entirely correct, what they do say is credible, coherent and corroborated by academic work - as such, it is worth listening to. [That's right](https://twitter.com/jdcmedlock/status/1311071038810157062). I'm talking about social democrats. And this is going to be my suggested interpretation of what it means to be Medlock-pilled, featuring content from [James Medlock](https://twitter.com/jdcmedlock), [Jacob Keegan](https://twitter.com/LittleKeegs0), [David Sligar](https://twitter.com/DavidSligar), [Matt Darling](https://twitter.com/besttrousers) and [Matt Bruenig](https://twitter.com/MattBruenig).
 
 **Big Picture Aims**
