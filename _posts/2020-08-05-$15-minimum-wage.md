@@ -64,7 +64,7 @@ There is a relative consensus that a small to moderate rise in the minimum wage 
 [^L]: [BLS 2020](https://www.bls.gov/opub/reports/minimum-wage/2019/home.htm)
 [^M]: [Sherk 2013](http://thf_media.s3.amazonaws.com/2013/pdf/ib3866.pdf)
  
-However, empirical evidence suggests that even if imperfect targeted, the minimum wage remains useful towards increasing family incomes at the bottom end - with clear positive effects on family incomes below the 20th percentile.
+However, empirical evidence suggests that even if imperfect targeted, the minimum wage remains useful towards increasing family incomes at the bottom end - with clear positive effects on family incomes below the 20th percentile[^H].
 [^H]: [Dube 2017](http://ftp.iza.org/dp10572.pdf)
 
 This may be because the minimum wage increases can lead to wage increases for people currently earning above the minimum wage in order to maintain the compensating wage differential. Suppose a cashier earns <span>$</span>7.5 an hour and a mechanic with a less comfortable working environment and a higher risk of bodily harm earns <span>$</span>10 an hour - if the minimum wage rises to <span>$</span>10 an hour, many mechanics may become cashiers if their wages don't change, since they are no longer being compensated for the less pleasant working conditions. Consequently, a rise in the minimum wage is associated with wage rises for workers up to the 25th percentile, or up to those earning 175% of the minimum wage[^I].
