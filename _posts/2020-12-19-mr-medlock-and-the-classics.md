@@ -5,7 +5,9 @@ date: 2020-12-19
 tags: economics effortposts
 ---
 
-**Disclaimer**: this has been tagged as an effortpost due to the time and work put in. However, this is very much a work-in-progress that I will add to and edit over time - right now, it's better described as a collection of twitter and blogpost links than necessarily a fully fleshed-out piece. Any mistakes or misrepresentations of people I've linked to are mine and mine alone, and I would be grateful if they were sent my way.
+**Disclaimer**: This has been tagged as an effortpost due to the time and work put in. However, this is very much a work-in-progress that I will add to and edit over time - right now, it's better described as a collection of twitter and blogpost links than necessarily a fully fleshed-out piece. Any mistakes or misrepresentations of people I've linked to are mine and mine alone, and I would be grateful if they were sent my way.
+
+**Edit**: Wow! I did not expect this post to blow up as much as it has, with nearly 120,000 impressions on my tweet publicising this. I am glad that so many people said this was useful, and if you have any comments please do DM me!
 
 -----
 
