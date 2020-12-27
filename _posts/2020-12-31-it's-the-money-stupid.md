@@ -36,6 +36,7 @@ If we adjust the price level, we will be shifting the LM curve. The locus of poi
 Let's specify some functional forms for our IS and LM curves. Take consumption as $C=c_0+c_y(Y-T)$, investment as $I=d_0+d_r r$ and money demand as $L= L_y Y - L_r r$. All we've added are autonomous components and coefficients. We get the following.
 
 $$ \text{IS curve}: Y = \frac{c_0+d_0}{1-c_y} - \frac{d_r}{1-c_y} r + \frac{1}{1-c_y}G - \frac{c_y}{1-c_y} T $$
+
 $$ \text{LM curve}: \frac{M}{P} = L_y Y - L_r r$$
 
 These are very messy equations. Let's simplify this in a few ways as [u/Integralds does](https://old.reddit.com/r/badeconomics/comments/43i631/badeconomics_discussion_thread_31_january_2016/czjbqkm/). The key takeaway from the IS curve is that real output (and consequently log real output $y$) depends positively on some fiscal variable and negatively on the real interest rate - we can write it as $y=g-br$. The key takeaway from the LM curve is that real money balances (and consequently log real money balances $m-p$) depends positively on real output (and log real output) as well as negatively on the real interest rate - we can write it as $m-p=y-hr$, assuming that money demand is unit elastic to real income.
@@ -62,13 +63,9 @@ The reason Akerlof gives for saying that "if [he] were to know one thing about m
 
 The idea that it produces illustrative predictions is reiterated by [Mark Thoma](https://economistsview.typepad.com/economistsview/2009/09/who-has-all-the-answers.html), who notes that when it comes to significant fluctuations in the business cycle, the Old Keynesian model is the one designed to answer those questions. By contrast, the quantity theory is more suited for understanding inflation in the long run and the basic New Keynesian model as it stands for small business cycle fluctuations.
 
-Indeed, [Paul Krugman](https://krugman.blogs.nytimes.com/2010/09/11/one-model-to-rule-them-all/), who is one of the biggest advocates for IS-LM, argues that the framework allowed him to make accurate predictions during the Great Recession.
-
-[Krugman notes](https://krugman.blogs.nytimes.com/2011/10/09/is-lmentary/) that IS-LM is especially helpful in considering liquidity traps, which he believes characterised the Great Recession. Consider the LM curve - once interest rates hit zero, people would choose to hold money in lieu of interest-bearing assets, since there would be no interest foregone. As such, conventional monetary policy which changes the money supply via open market operations that swap money for bonds will have no effect. It is only fiscal policy that can have an effect by shifting the IS curve to the right.
+Indeed, [Paul Krugman](https://krugman.blogs.nytimes.com/2010/09/11/one-model-to-rule-them-all/), who is one of the biggest advocates for IS-LM, argues that the framework allowed him to make accurate predictions during the Great Recession. [Krugman notes](https://krugman.blogs.nytimes.com/2011/10/09/is-lmentary/) that IS-LM is especially helpful in considering liquidity traps, which he believes characterised the Great Recession. Consider the LM curve - once interest rates hit zero, people would choose to hold money in lieu of interest-bearing assets, since there would be no interest foregone. As such, conventional monetary policy which changes the money supply via open market operations that swap money for bonds will have no effect. It is only fiscal policy that can have an effect by shifting the IS curve to the right. This led [Krugman to suggest](https://krugman.blogs.nytimes.com/2014/03/28/what-i-mean-when-i-talk-about-is-lm-wonkish/) that "big deficits and huge increases in the monetary base would lead neither to soaring interest rates nor to soaring inflation".
 
 ![Liquidity Trap](/assets/ISLMTrap.png){:width="675px"}
-
-This led [Krugman to suggest](https://krugman.blogs.nytimes.com/2014/03/28/what-i-mean-when-i-talk-about-is-lm-wonkish/) that "big deficits and huge increases in the monetary base would lead neither to soaring interest rates nor to soaring inflation".
 
 [Krugman observes](https://krugman.blogs.nytimes.com/2009/01/27/a-dark-age-of-macroeconomics-wonkish) that it also prevents one from "interpreting an accounting identity as a behavioural relationship". This sort of fallacious reasoning leads one to believe that any government borrowing must come at the expense of investment since savings equal investment, making any fiscal policy irrelevant. This is silly, because it ignores how the two re-equilibrate, which IS-LM highlights is the change in output.
 
@@ -80,11 +77,9 @@ Consider a three good economy of $X$,$Y$ and $Z$, where $Z$ is the numeraire. We
 
 ![Three Goods](/assets/ThreeGoods.png){:width="675px"}
 
-If we treat goods, bonds and money as $X$,$Y$ and $Z$ and change the vertical axis to the interest rate instead of the price of bonds, we can see Don Patinkin's full employment IS-LM from *Money, Interest and Prices*. If we add price stickiness, we get the IS-LM we've been discussing.
+If we treat goods, bonds and money as $X$,$Y$ and $Z$ and change the vertical axis to the interest rate instead of the price of bonds, we can see Don Patinkin's full employment IS-LM from *Money, Interest and Prices*. If we add price stickiness, we get the IS-LM we've been discussing. As such, [Krugman argues](http://web.mit.edu/krugman/www/islm.html) that IS-LM is far from arbitrary - instead, it is the logical consequence of setting up a general equilibrium framework to examine short-run macroeconomics.
 
 ![Patinkin](/assets/Patinkin.png){:width="675px"}
-
-As such, [Krugman argues](http://web.mit.edu/krugman/www/islm.html) that IS-LM is far from arbitrary - instead, it is the logical consequence of setting up a general equilibrium framework to examine short-run macroeconomics.
 
 [Krugman acknowledges](https://krugman.blogs.nytimes.com/2011/09/13/how-much-hoc-to-add-wonkish-and-methodological/) that IS-LM tries to squeeze a dynamic economy into a static model, bypassing the fact that decisions are dependent on expectations by setting fixed prices. But insofar as the alternative is rational expectations which are themselves untrue, IS-LM can be seen as a useful first pass way of producing good static predictions that can then be checked against an intertemporal New Keynesian model.
 
@@ -127,6 +122,7 @@ This BL curve is especially helpful in understanding [financial crises like 2008
 And finally, if our aggregate demand curve produces a relationship between output and inflation, we ought to update our aggregate supply curve to do the same. One way of doing so is by considering inflation as a combination of some level of inflation that always exists and a function of the gap between actual output and NAIRU output. This can be written as $\pi = \bar{\pi}+\lambda(Y-\bar{Y})$.
 
 **Old and New Keynesian Dynamics**
+
 A second line of criticism for IS-LM-AS is that it is a static and ad hoc model. According to [Tyler Cowen](https://marginalrevolution.com/marginalrevolution/2011/10/why-i-do-not-like-the-is-lm-model.html), "you should hear a clock start ticking in your head" every time you use the model. The longer it ticks, the more you have to be concerned with prices and inflation expectations changing, driving a wedge between the nominal and the real.
 
 This is especially an issue as [Cowen notes](https://marginalrevolution.com/marginalrevolution/2005/10/five_reasons_wh.html), because investment and savings decisions occur on the basis of the full future path of interest rates, while money market decisions are affected by the short-run interest rate. So the model fudges the distinction over the time period too.
@@ -156,9 +152,8 @@ Thus we have our New Keynesian three equation IS-MP-PC model, which is derived f
 And by the same process as before, we get an AD curve from IS-MP and an AS curve by taking the New Keynesian Philips Curve, giving us a dynamic AD-AS model relating output and inflation that is easily accessible.
 
 **Barter and Monetary Exchange**
-It seems like all of our approaches have resulted in us using an AD-AS model eventually. But if that's the case, do we need to go through a 3 equation model every time?
 
-[Scott Sumner](https://www.themoneyillusion.com/krugman-and-delong-mount-a-chivalrous-defense-of-is-lm/) thinks otherwise - in fact, he disagrees on the need for a minimal macroeconomic model to have "money, bonds and output". Consider a quantity theory model, which contrary to DeLong's earlier criticism, does not have to be the mechanical one with constant money velocity.
+It seems like all of our approaches have resulted in us using an AD-AS model eventually. But if that's the case, do we need to go through a 3 equation model every time? [Scott Sumner](https://www.themoneyillusion.com/krugman-and-delong-mount-a-chivalrous-defense-of-is-lm/) thinks otherwise - in fact, he disagrees on the need for a minimal macroeconomic model to have "money, bonds and output". Consider a quantity theory model, which contrary to DeLong's earlier criticism, does not have to be the mechanical one with constant money velocity.
 
 Suppose we have "a model with money and goods, plus sticky prices". The supply and demand for money sets the price level and nGDP. If we have sticky prices in the form of a Philips Curve, we can translate nGDP shocks into the components of real GDP fluctuations and price fluctuations, creating demand-side business cycles.
 
@@ -168,17 +163,13 @@ Indeed, the focus on interest rates within IS-LM is problematic. For example, as
 
 Meanwhile, [Rowe sees](https://worthwhile.typepad.com/worthwhile_canadian_initi/2016/06/on-olivier-blanchard-on-islm-and-teaching-intermediate-macro.html) sees money as at the center of business cycles. Consider as [Rowe does](https://worthwhile.typepad.com/worthwhile_canadian_initi/2015/12/minimalism-and-recessions.html) a one-period pure endowment general equilibrium model with no time, uncertainty, interest rates, savings, investment, borrowing, lending, production or employment. The only salient feature of this model is monetary exchange.
 
-Suppose three consumption goods of apples, bananas and mangoes, with mangoes as the numeraire and the price of both apples and bananas as $P$. Half of the agents have 200 apples and 100 mangoes, the other half have 200 bananas and 100 mangoes. They all have preferences given by $U=\ln{C_A}+\ln{C_B}+\ln{C_M}$.
-
-In a barter economy, there is a market-clearing competitive equilibrium of $P=1$. Everyone consumes 100 of each fruit. But suppose we have a sticky price of $P>1$ - nothing changes, because agents can just barter apples and bananas.
+Suppose three consumption goods of apples, bananas and mangoes, with mangoes as the numeraire and the price of both apples and bananas as $P$. Half of the agents have 200 apples and 100 mangoes, the other half have 200 bananas and 100 mangoes. They all have preferences given by $U=\ln{C_A}+\ln{C_B}+\ln{C_M}$. In a barter economy, there is a market-clearing competitive equilibrium of $P=1$. Everyone consumes 100 of each fruit. But suppose we have a sticky price of $P>1$ - nothing changes, because agents can just barter apples and bananas.
 
 Now consider a monetary exchange economy, where you cannot exchange apples and bananas directly and must use mangoes as the medium of exchange. While the situation is the same when $P=1$, as soon as $P>1$ we get a disequilibrium, because there is excess apples in the apple-mango market and excess bananas in the banana-mango market. So recessions are simply reductions in utility when monetary exchanges do not occur due to an excess demand for the medium of exchange.
 
 This is why money is crucial in understanding business cycles, and why [Rowe emphasises](https://worthwhile.typepad.com/worthwhile_canadian_initi/2017/01/adas-a-suggested-interpretation.html) the importance of making clear that we are talking about a monetary exchange economy in our models - in a sense, every market in such an economy is a goods-money market and so [Rowe describes](https://worthwhile.typepad.com/worthwhile_canadian_initi/2014/08/money-prices-and-coordination-failures.html) recessions as monetary coordination failures.
 
-How can we demonstrate this clearly? Well, it turns out this can be done very simply - [Sumner notes](https://www.themoneyillusion.com/the-tabarrokcowen-asad-model/) that Tyler Cowen and Alex Tabarrok have done so in their introductory textbook.
-
-Consider the equation for exchange $MV=PY$, which describes any monetary exchange economy. Cowen and Tabarrok take the dynamic form of that as their AD curve.
+How can we demonstrate this clearly? Well, it turns out this can be done very simply - [Sumner notes](https://www.themoneyillusion.com/the-tabarrokcowen-asad-model/) that Tyler Cowen and Alex Tabarrok have done so in their introductory textbook. Consider the equation for exchange $MV=PY$, which describes any monetary exchange economy. Cowen and Tabarrok take the dynamic form of that as their AD curve.
 
 Recognise that the growth rate of a variable $A$ is given by $\tilde{A} = \frac{A_{t+1}-A_t}{A_t}$, or in instantaneous form, it is given by $\frac{\dot{A}}{A}$. This can be written as $\frac{d \ln{A}}{dt}$. For some $A=BC$, we can see that $\ln{A}=\ln{B}+\ln{C}$ and so $\frac{d \ln{A}}{dt}=\frac{d \ln{B}}{dt}+\frac{d \ln{C}}{dt}$. Hence we can write their growth rates as $\tilde{A} = \tilde{B} + \tilde{C}$.
 
@@ -189,6 +180,7 @@ This means we can see that $\pi = \tilde{M} + \tilde{V} - \tilde{Y}$. If we hold
 This is a parsimonious model that is easily explained and can account for what is going on. Furthermore, [Rowe argues](https://worthwhile.typepad.com/worthwhile_canadian_initi/2013/06/in-defence-of-the-as-ad-framework.html) that "when we teach economics we are not (or should not be) just teaching about the here and now" - rather, [Rowe gestures](https://worthwhile.typepad.com/worthwhile_canadian_initi/2014/06/teaching-general-principles-of-macro.html) at general principles that apply broadly. The AD curve, by virtue of not tying itself to any particular monetary rule but instead to the idea of monetary exchange, can be useful for a range of circumstances.
 
 **The Key Components**
+
 Ultimately, the study of business cycle macroeconomics as a field exists because of monetary exchange. If we lived in a world with a Walrasian auctioneer or a world where barter is easy, we would not see recessions. The only fluctuations we would see are purely real shocks - but these would simply to lead to immediate adjustments in prices. Instead, we do live in a world with money. As Jack Gurley put it, "money is a veil, but when the veil flutters, real output sputters".
 
 As such, we need to have a macroeconomic model which is cognizant of this, as well as being adaptable enough to fit varying circumstances. The dynamic AD-AS model does exactly this. It is the simplest way of accounting for goods and money in a monetary exchange economy. Consequently, we should work with that as an ad hoc model, allowing us to think about how changes in the money supply and velocity occur and how they affect output and inflation.
