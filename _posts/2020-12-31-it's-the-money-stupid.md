@@ -5,7 +5,7 @@ date: 2020-12-31
 tags: economics effortposts
 ---
 
-With the academic literature, a common approach in macroeconomics involves setting out microfoundations for various actors and solving their optimisation problems. This produces a set of aggregate relationships that describe some sort of dynamic stochastic general equilibrium model. But it would be a tedious and cumbersome process to solve the full intertemporal-maximisation problem every time we wanted to discuss a policy issue.
+To end the year, I wanted to examine the mental model by which I think about short-run macroeconomics. With the academic literature, a common approach in macroeconomics involves setting out microfoundations for various actors and solving their optimisation problems. This produces a set of aggregate relationships that describe some sort of dynamic stochastic general equilibrium model. But it would be a tedious and cumbersome process to solve the full intertemporal-maximisation problem every time we wanted to discuss a policy issue.
 
 Consequently, it is no surprise that we often see ad hoc models which assume the aggregate relationships being used instead. Although this is ostensibly worse due to the lack of internal consistency, there are good reasons to believe that having these parsimonious models which contain the essential constraints and incentives is nonetheless useful.
 
