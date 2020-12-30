@@ -11,7 +11,7 @@ While it may seem obvious why we want people's earnings to keep growing, why sho
 
 $$Y=A K^\alpha L^{1-\alpha}$$
 
-$$MPL=\frac{\delta Y}{\delta L}=(1-\alpha) A K^{\alpha} L^{-\alpha}$$
+$$MPL=\frac{\partial Y}{\partial L}=(1-\alpha) A K^{\alpha} L^{-\alpha}$$
 
 $$W = P \times MPL$$
 
