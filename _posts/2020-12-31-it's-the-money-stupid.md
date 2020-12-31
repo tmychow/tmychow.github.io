@@ -5,7 +5,7 @@ date: 2020-12-31
 tags: economics effortposts
 ---
 
-To end the year, I wanted to examine the mental model by which I think about short-run macroeconomics. With the academic literature, a common approach in macroeconomics involves setting out microfoundations for various actors and solving their optimisation problems. This produces a set of aggregate relationships that describe some sort of dynamic stochastic general equilibrium model. But it would be a tedious and cumbersome process to solve the full intertemporal-maximisation problem every time we wanted to discuss a policy issue.
+To end the year, I wanted to think about the ways in which we discuss short-run macroeconomics. With the academic literature, a common approach involves setting out microfoundations for various actors and solving their optimisation problems. This produces a set of aggregate relationships that describe some sort of dynamic stochastic general equilibrium model. But it would be a tedious and cumbersome process to solve the full intertemporal-maximisation problem every time we wanted to discuss a policy issue.
 
 Consequently, it is no surprise that we often see ad hoc models which assume the aggregate relationships being used instead. Although this is ostensibly worse due to the lack of internal consistency, there are good reasons to believe that having these parsimonious models which contain the essential constraints and incentives is nonetheless useful.
 
@@ -49,7 +49,7 @@ $$ \text{AD curve}: y = \frac{h}{b+h}g + \frac{b}{b+h} (m-p)$$
 
 [George Akerlof describes](https://eml.berkeley.edu/~webfac/akerlof/e202_f07/lecture1.pdf) the three important questions of macroeconomics in the short run as the level of output, interest rates and prices, as well as how these are affected by the environment, fiscal policy and monetary policy. Unfortunately, an AD curve isn't enough to answer these questions, because its IS-LM foundations assume a fixed price level. We need to close out the model with a way of describing the aggregate supply of goods.
 
-This can be done in a few ways. The traditional Keynesian approach is to have a production function of $Y=F(N)$, where $N$ is the level of employment. Money wages are set at $\bar{w}$. The production function exhibits a positive marginal product with $F'(N)>0$ and a diminishing marginal product with $F''(N)<0$. Employers will hire up till the point where the marginal product of labour equals the real wage, where $F'(N)=\frac{\bar{w}}{P}$. Hence there is some aggregate supply function $Y=Y(P,\bar{w})$. One simplified functional form for this could be $p = \bar{w} + ay$.
+This can be done in a few ways. The traditional Keynesian approach is to have a production function of $Y=F(N)$, where $N$ is the level of employment. Money wages are set at $\bar{w}$. The production function exhibits a positive marginal product with $F'(N)>0$ and a diminishing marginal product with $F"(N)<0$. Employers will hire up till the point where the marginal product of labour equals the real wage, where $F'(N)=\frac{\bar{w}}{P}$. Hence there is some aggregate supply function $Y=Y(P,\bar{w})$. One simplified functional form for this could be $p = \bar{w} + ay$.
 
 The result of having three equations in three variables is that we can look at the following matrix of comparative static outcomes, seeing how changes in the fiscal variable, monetary variable or wages affect output, interest rates and prices.
 
@@ -65,7 +65,7 @@ The idea that it produces illustrative predictions is reiterated by [Mark Thoma]
 
 Indeed, [Paul Krugman](https://krugman.blogs.nytimes.com/2010/09/11/one-model-to-rule-them-all/), who is one of the biggest advocates for IS-LM, argues that the framework allowed him to make accurate predictions during the Great Recession. [Krugman notes](https://krugman.blogs.nytimes.com/2011/10/09/is-lmentary/) that IS-LM is especially helpful in considering liquidity traps, which he believes characterised the Great Recession. Consider the LM curve - once interest rates hit zero, people would choose to hold money in lieu of interest-bearing assets, since there would be no interest foregone. As such, conventional monetary policy which changes the money supply via open market operations that swap money for bonds will have no effect. It is only fiscal policy that can have an effect by shifting the IS curve to the right. This led [Krugman to suggest](https://krugman.blogs.nytimes.com/2014/03/28/what-i-mean-when-i-talk-about-is-lm-wonkish/) that "big deficits and huge increases in the monetary base would lead neither to soaring interest rates nor to soaring inflation".
 
-![Liquidity Trap](/assets/ISLMTrap.png){:width="675px"}
+![Liquidity Trap](/assets/ISLMTraps.png){:width="675px"}
 
 [Krugman observes](https://krugman.blogs.nytimes.com/2009/01/27/a-dark-age-of-macroeconomics-wonkish) that it also prevents one from "interpreting an accounting identity as a behavioural relationship". This sort of fallacious reasoning leads one to believe that any government borrowing must come at the expense of investment since savings equal investment, making any fiscal policy irrelevant. This is silly, because it ignores how the two re-equilibrate, which IS-LM highlights is the change in output.
 
