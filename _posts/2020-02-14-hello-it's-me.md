@@ -12,6 +12,42 @@ This blog is borne out of COVID-19: in part, this was me wanting to prove that I
 
 But crucially, though this blog came about in the first quarter of the year, it has taken on a life of its own as the year progressed. Some of this comes down to reading stories of how people were suffering on r/unemployment and elsewhere, as well as the broader realisation of how large of a human toll there was as a result of incompetent responses - the sense that the discourse around our economic policymaking remains utterly useless was a motivation to write about these things. Equally, I realised I actually quite liked synthesising content and explaining things - and perhaps, I was even alright at doing it.
 
+Here's the word count of posts (from newest to oldest):
+- It's the Money, Stupid: 4501
+- Mr Medlock and the Classics: 6655
+- Culture Wars and Epistemic Modesty: 2644
+- Facts Don't Care About Your Feelings: 1678
+- Why Bob Lucas Was Wrong: 1227
+- The Neo-Wicksellians vs The Neo-Fisherites: 1120
+- Stagnation and Separation: Where Has All the Money Gone?: 1469
+- The Hong Kong Hypothesis: 727
+- A Primer on Economic Growth: Part III - Mankiw, Romer and Weil: 1580
+- The Next Recession: Where Do We Go From Here?: 6019
+- Calorie Labelling on Menus: 903
+- Governments aren't Households: 636
+- The Economics of Grading: 366
+- Ofqual and Offerholders: 1084
+- $15 Minimum Wage? We Can Do Better: 1505
+- All that Glitters is Not Gold: It's Consumption: 2160
+- A Primer on Economic Growth: Part II - Electric Boogaloo: 2099
+- A Conversation with Professor Donaldson on International Trade: 1577
+- Buy American? A Primer on Trade: 2614
+- A Primer on Economic Growth: Part I - The Theoretical Underpinnings: 2605
+- Growth: A Primer in Three Parts: 352
+- Zoning Laws: Why They Suck, Why They Persist, and How We Can Fix Them: 3218
+- Bostock for Bisexuals?: 305
+- Making Change on #blackouttuesday: 257
+- Eton and Endowments: 935
+- A Conversation with Nobel Laureate Oliver Hart on Contract Theory: 2226
+- The Medical Side of the Recovery: 910
+- A Conversation with Professor Behrman on Economic Development: 1199
+- Coronavirus: The Great Unequaliser: 877
+- Where We Stand: Coronavirus and the Global Economy: 2479
+- Notes on the Global Financial Crisis by Andrew Metrick and Timothy Geithner: 11533
+
+And here's a graphical depiction, where I've excluded the GFC MOOC since it wasn't exactly a post. Essentially, I averaged 1864 words per post, with a standard deviation of 1552.
+![Blog Word Count](/assets/blogcount.png){:width="675px"}
+
 And the result of this blog is that I've been followed by some people I admire on twitter, had the chance to talk to and interview a few academics, and most importantly, have met lots of cool people online who are equally interested in economics or policy! So here's to a 2021 that is filled with more of these fascinating conversations, and less of what motivated the blog in the first place. Happy new year everyone!
 
 
