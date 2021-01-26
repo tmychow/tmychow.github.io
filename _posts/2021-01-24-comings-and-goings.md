@@ -16,13 +16,17 @@ Notice this already debunks the absurdly common criticism that "basic Economics 
 Secondly, we can consider what happens in a Solow model with a Cobb-Douglas production function and the standard equation of capital stock change.
 
 $$ Y = K^\alpha L^{1-\alpha} $$
+
 $$ \dot{K} = sY - \delta K $$
 
 We know that at the Solow model's steady state, we have $\dot{K}=0$.
 
 $$ sK^{*\alpha} L^{1-\alpha}=\delta K^* $$
+
 $$ K^{*1-\alpha} = \frac{s}{\delta} L^{1-\alpha} $$
+
 $$ K^* = \left(\frac{s}{\delta}\right)^\frac{1}{1-\alpha} L $$
+
 $$ Y^* = \left(\frac{s}{\delta}\right)^\frac{\alpha}{1-\alpha} L $$
 
 In particular, what we are actually interested in is output per person $y$. Notice that this doesn't depend on the size of the labour force - as such, a one-off influx of immigrants will have no effect on living standards. This would suggest that the only effect of immigration (if at all) will be in the short run, where per capita output may drop temporarily, depending on how long is needed for capital to accumulate to reach its previous capital-labour ratio.
@@ -32,17 +36,25 @@ $$ y^* = \left(\frac{s}{\delta}\right)^\frac{\alpha}{1-\alpha} $$
 Thirdly, we can augment this Solow model to include endogenous growth, since we know that countries do grow in real life. We can bolt on a process of Total Factor Productivity improvement onto the basic Solow setup, where this is dependent on a portion of the labour force working in research.
 
 $$ Y = A K^\alpha L_y^{1-\alpha} $$
+
 $$ \dot{K} = sY - \delta K $$
+
 $$ \dot{A} = zAL_a $$
+
 $$ L = L_y + L_a $$
+
 $$ L_a = \ell L $$
 
 We can write out the growth rate of the various variables to get the balanced growth path. We get the first two from their equations of change, while we take the population to be constant as before. And for $g_K$ to be constant on the balanced growth path when $s$ and $\delta$ are fixed parameters, that means $\frac{Y}{K}$ must be constant. The only way the output-capital ratio is constant is if output grows at the same rate as capital.
 
 $$ g_Y = g_A + \alpha g_K + (1-\alpha) g_{L_y} $$
+
 $$ g_A = \frac{\dot{A}}{A} = zL_a = z\ell L $$
+
 $$ g_K = \frac{\dot{K}}{K} = s\frac{Y}{K} - \delta $$
+
 $$ g_{L_y} = 0 $$
+
 $$ g^*_Y = g^*_K $$
 
 This gives us the balanced growth path of output - insofar as there is no population growth, this is the growth rate of output per capita too.
