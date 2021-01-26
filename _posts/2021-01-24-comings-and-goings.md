@@ -71,7 +71,7 @@ To be entirely clear, all four of our aggregate approaches so far are approximat
 
 **The Empirical Literature**
 
-Firstly, we can resolve the ambiguity mentioned previously - between 1980 and 2000, the increased demand caused by immigrants meant that each immigrant created 1.2 native jobs i.e. the effect of greater demand dominated[^1]. Secondly, even the increased labour supply can be helpful - because immigrants accept lower wages, this decreases the average labour cost and means that more jobs for natives are created[^2]. Consequently, the legalisation of more immigration can raise income for native workers, based on a model calibrated to the economies of the US and Mexico from 2000 to 2010[^3].
+Firstly, we can try to resolve the ambiguity mentioned previously - between 1980 and 2000, the increased demand caused by immigrants meant that each immigrant created 1.2 native jobs in the US i.e. the effect of greater demand dominated[^1]. Secondly, even the increased labour supply can be helpful - because immigrants accept lower wages, this decreases the average labour cost and means that more jobs for natives are created[^2]. Consequently, the legalisation of more immigration can raise income for native workers, based on a model calibrated to the economies of the US and Mexico from 2000 to 2010[^3].
 
 [^1]:[Hong and McLaren 2015](https://www.nber.org/papers/w21123)
 [^2]:[Albert 2021](https://www.aeaweb.org/articles?id=10.1257/mac.20190042)
