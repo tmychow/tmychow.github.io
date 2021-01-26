@@ -13,6 +13,8 @@ This blog is borne out of COVID-19: in part, this was me wanting to prove that I
 But crucially, though this blog came about in the first quarter of the year, it has taken on a life of its own as the year progressed. Some of this comes down to reading stories of how people were suffering on r/unemployment and elsewhere, as well as the broader realisation of how large of a human toll there was as a result of incompetent responses - the sense that the discourse around our economic policymaking remains utterly useless was a motivation to write about these things. Equally, I realised I actually quite liked synthesising content and explaining things - and perhaps, I was even alright at doing it.
 
 I like to quantify things, so here's the word count of posts (from newest to oldest):
+- Comings and Goings: Migration as a Free Lunch: 3149
+- The 117th Congress: 1911
 - It's the Money, Stupid: 4501
 - Mr Medlock and the Classics: 6655
 - Culture Wars and Epistemic Modesty: 2644
