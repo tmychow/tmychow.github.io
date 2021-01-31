@@ -3,9 +3,11 @@ layout: default
 title: Trevor's Mostly Economic Musings
 ---
 	<h1>{{ page.title }}</h1>
-	<ul class="posts">
+	<h1>Hi there, I'm Trevor Chow!</h1>
+	<p>On this website, you can find a collection of my ramblings on economics and public policy.</p>
 
-	  {% for post in site.posts %}
+	<ul class="posts">
+	  {% for post in site.posts limit:5 %}
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 		    {{ post.excerpt | truncatewords: 50 }}
 	    </li>
