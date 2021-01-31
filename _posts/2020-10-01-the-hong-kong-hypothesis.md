@@ -5,7 +5,7 @@ date: 2020-10-01
 tags: miscellaneous takes
 ---
 
-For those who don't know me, I'm from Hong Kong. I think it's a great city, and one of the things that confirmed this for me was the fact that life expectancy in Hong Kong was the highest in the world. This was inspired by a question that [Tyler Cowen posed](https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html): why is life expectancy so long in Hong Kong, when it isn't the wealthiest or cleanest place? I'm not sure myself - but here are a few ideas. I'd love to hear from anyone if they have a better angle on this!
+For those who don't know me, I'm from Hong Kong. I think it's a great city, and one of the things that confirmed this for me was the fact that life expectancy in Hong Kong was the highest in the world. And so [Tyler Cowen posed](https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html) the question: why is life expectancy so long in Hong Kong, when it isn't the wealthiest or environmentally friendliest place? I'm not sure myself - but here are a few ideas. I'd love to hear from anyone if they have a better angle on this!
 
 Before we begin, I will note that of the top 5, 4 are reasonably wealthy places that are primarily ethnically East Asian: Hong Kong, Japan, Macao and Singapore. Are there commonalities here? I suspect so - and the hypotheses below regarding Hong Kong will be somewhat applicable to the other 3.
 
