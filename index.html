@@ -7,7 +7,7 @@ title: Trevor's Mostly Economic Musings
 	<p> My 5 most recent posts are below, with the full blog archive available <a href="https://tmychow.com/blog/">here</a>. Some of my posts you may want to check out include: <a href="https://tmychow.com/blog/2020/05/14/a-conversation-with-nobel-laureate-oliver-hart">my interview with Nobel Laureate Oliver Hart on contract theory</a>, <a href="https://tmychow.com/blog/2020/07/02/growth-a-primer-in-three-parts">my three-part primer on economic growth</a>, <a href="https://tmychow.com/blog/2020/12/19/mr-medlock-and-the-classics">my summary of social democratic economic policy</a> and <a href="https://tmychow.com/blog/2021/01/24/comings-and-goings">my review of the literature regarding open borders</a>.</p>
 	<ul class="posts">
 	  {% for post in site.posts limit:5 %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> {{ post.excerpt | truncatewords: 10 }}
 	    </li>
 	  {% endfor %}
 	</ul>
