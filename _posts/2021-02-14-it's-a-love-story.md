@@ -65,4 +65,4 @@ Is any of this terribly helpful or insightful? Well, I'm posting this on Valenti
 
 So to close, I hope everyone has a happy Valentine's Day! And to the people who read this blog (h/t [@unofficialecon](https://twitter.com/unofficialecon)):
 
-![Valentine](/assets/Valentine.jpg){:width="675px"}
+![Valentine](/assets/ValDemand.jpg){:width="675px"}
