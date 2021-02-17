@@ -12,9 +12,7 @@ This blog is borne out of COVID-19: in part, this was me wanting to prove that I
 
 But crucially, though this blog came about in the first quarter of the year, it has taken on a life of its own as the year progressed. Some of this comes down to reading stories of how people were suffering on r/unemployment and elsewhere, as well as the broader realisation of how large of a human toll there was as a result of incompetent responses - the sense that the discourse around our economic policymaking remains utterly useless was a motivation to write about these things. Equally, I realised I actually quite liked synthesising content and explaining things - and perhaps, I was even alright at doing it.
 
-I like to quantify things, so here's the word count of posts (from newest to oldest):
-- Comings and Goings: Migration as a Free Lunch: 3149
-- The 117th Congress: 1911
+I like to quantify things, so here's the word count of posts in 2020 (from newest to oldest):
 - It's the Money, Stupid: 4501
 - Mr Medlock and the Classics: 6655
 - Culture Wars and Epistemic Modesty: 2644
@@ -56,4 +54,7 @@ A more interesting set of data might be the views this blog has gotten - as it t
 And the result of this blog is that I've been followed by some people I admire on twitter, had the chance to talk to and interview a few academics, and most importantly, have met lots of cool people online who are equally interested in economics or policy! So here's to a 2021 that is filled with more of these fascinating conversations, and less of what motivated the blog in the first place. Happy new year everyone!
 
 PS: posts since this are below.
+- It's a Love Story: 2472
+- Reg Y X: 1156
+- Comings and Goings: Migration as a Free Lunch: 3149
 - The 117th Congress: 1911
