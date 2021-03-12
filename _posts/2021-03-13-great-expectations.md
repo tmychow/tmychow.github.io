@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Great Expectations"
+date: 2021-03-13
+tags: economics takes
+---
+
+A while back, I made a [post on the debate over neo-Fisherism](https://tmychow.com/blog/2020/11/02/the-neowicksellians-vs-the-neo-fisherites). I basically concluded that the problem with neo-Fisherism was one of disequilibrium dynamics i.e. we don't get to the equilibrium consistent with neo-Fisherism. However, as I noted then, New Keynesian models suggest that we can get to that equilibrium. Indeed, it is only if we abandon rational expectations and the perfect foresight equilibrium that we don't get there in NK models. As John Cochrane said, "if one has to resort to learning and non-rational expectations to get rid of a result, the battle is half won". 
+
+So I wasn't entirely satisfied with my answer, because the way Cochrane puts it made me feel like abandoning RatEx/PFE was a tiny change used as a modelling trick to avoid this weird conclusion. I no longer feel that way, because I realised expectations do matter a lot. (Probably should have realised this after my "73 for 73" post, but here we are.)
+
+Consider a perfect competition flexible prices model. Is it possible for there to be unemployed resources? Yes. The important thing to note here is that price rigidity or frictions in market structures aren't the only things to cause suboptimal resource allocation. Instead, inconsistent expectations across agents can do that too.
+
+If we think of our model as made up of various supply and demand models, producers and consumers having inconsistent expectations will shift both curves. This means that the intersection may be at a lower level of output than is optimal. In this way, it is not prices that are stopping the market from clearing, but rather that the market clears at a level where there are mutually beneficial trades foregone due to inconsistent expectations.
+
+In this sense, expectations matter. How does this apply to neo-Fisherism? In effect, neo-Fisherism takes advantage of the fact that inflation is indeterminate in NK models. As such, the use of RatEx means that agents are clever enough to jump to equilibrium paths which they could not walk to. So the point here is that the assumption of RatEx, far from being just a modelling device, actually matters a lot because the consistency of expectations matters a lot. And as Garcia-Schmidt and Woodford find, once you introduce tiny deviations from RatEx such as learning mechanisms, these outcomes fall apart and you return to the explosive divergence which we intuitively understand and which pop out of Old Keynesian models.
+
+I think this was very useful for me, because I had previously thought of flex-price models as efficient - however, the implicit assumption I had forgotten was regarding whether it was FIRE (full information, rational expectations) or not. And because I am not at the point where I can work out fully fledged NK models, recognising this intuition was helpful in figuring out why RatEx is doing a lot of work for the neo-Fisherites.
+
+This is also a useful reminder that a lot of the characteristics of NK models are deeply weird and unhelpful. In particular, the indeterminacy is problematic. Not only does this cause problems in equilibrium selection, it ends up assuming full output as the eventual outcome. That is, because NK models emphasise interest rates instead of some sort of nominal anchor, it only prescribes relative levels of output across time. As such, there is nothing guaranteeing that the level  of output will return to full employment except that it has been assumed to be the case. In any case, this is if nothing else a echoing of Paul Krugman's usual adivce: "work things out first in terms of IS-LM, but then try to write down a stripped-down NK model with similar results; if [you] can’t make that work, it’s time for some hard thinking about where the difference lies".
