@@ -45,15 +45,16 @@ I like to quantify things, so here's the word count of posts in 2020 (from newes
 - Where We Stand: Coronavirus and the Global Economy: 2479
 - Notes on the Global Financial Crisis by Andrew Metrick and Timothy Geithner: 11533
 
-And here's a graphical depiction, where I've excluded the GFC MOOC since it wasn't exactly a post. Essentially, I averaged 1864 words per post, with a standard deviation of 1552.
+And here's a graphical depiction, where I've excluded the GFC MOOC since it wasn't exactly a post. Essentially, I averaged 1864 words per post, with a standard deviation of 1552. And as it turns out, I got over 11,000 views in 2020, with the 5 most popular posts of 2020 in descending order being: Mr Medlock and the Classics, Culture Wars and Epistemic Modesty, Ofqual and Offerholders, All that Glitters is Not Gold and The Next Recession.
 ![Blog Word Count](/assets/blogcount.png){:width="675px"}
 
-A more interesting set of data might be the views this blog has gotten - as it turns out, I got over 11,000 views in 2020, with the 10 most popular pages of the website given below!
-![Blog View Count](/assets/viewcount.png){:width="675px"}
-
-And the result of this blog is that I've been followed by some people I admire on twitter, had the chance to talk to and interview a few academics, and most importantly, have met lots of cool people online who are equally interested in economics or policy! So here's to a 2021 that is filled with more of these fascinating conversations, and less of what motivated the blog in the first place. Happy new year everyone!
+The result of this blog is that I've been followed by some people I admire on twitter, had the chance to talk to and interview a few academics, and most importantly, have met lots of cool people online who are equally interested in economics or policy! So here's to a 2021 that is filled with more of these fascinating conversations, and less of what motivated the blog in the first place. Happy new year everyone!
 
 PS: posts since this are below.
+- Great Expectations: 627
+- Emergent Ventures: 36
+- 73 for 73: 954
+- Ask Better Questions: 527
 - It's a Love Story: 2472
 - Reg Y X: 1156
 - Comings and Goings: Migration as a Free Lunch: 3149
