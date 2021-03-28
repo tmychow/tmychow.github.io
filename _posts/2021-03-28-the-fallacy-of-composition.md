@@ -5,7 +5,7 @@ date: 2021-03-28
 tags: economics effortposts
 ---
 
-**Description**: Hopefully this will bring you up to speed from knowing nothing about macroeconomics all the way till you know everything you've ever wanted to know about intermediate short-run macro in a single post. We'll mess around with the IS-LM notion of goods and money market equilibrium to see where it takes us, generously borrowing from [Miles Kimball](https://blog.supplysideliberal.com/) and [Nick Rowe](https://worthwhile.typepad.com/worthwhile_canadian_initi/nick-rowe/).
+**Description**: Hopefully this will bring you up to speed from knowing nothing about macroeconomics all the way till you know everything you want to know about intermediate short-run macro in a single post. We'll mess around with the notion of goods and money market equilibrium to see where it takes us, borrowing generously from [Miles Kimball](https://blog.supplysideliberal.com/) and [Nick Rowe](https://worthwhile.typepad.com/worthwhile_canadian_initi/nick-rowe/).
 
 **Table of Contents**
 
@@ -188,4 +188,4 @@ So at the very least this model can do the trick for the analysis we've discusse
 1. The downwards-sloping IS curve means we can easily make the mistake of associating low interest rates with representing easy money. But as Milton Friedman and Scott Sumner have constantly espoused: "low interest rates are generally a sign that money has been tight". The upwards-sloping IS curve is a helpful reminder that the income and inflation effects dominate in equilibrium.
 2. The downwards-sloping IS curve means we have no clue how to parse what neo-Fisherites mean when they say that higher interest rates will raise inflation and output. With the upwards-sloping IS curve, it is clear where the confusion lies i.e. it becomes clear that they are thinking about a possible equilibrium, but it is also apparent that the disequilibrium dynamics just don't get us there. This insight is useful, because it means neo-Fisherism can be acknowledged for what they is: a quirk of equilibrium selection in New Keynesian models via perfect foresight. Furthermore, it is helpful as a reminder not to reason from a price change i.e. I have no idea what is meant by "raising interest rates". You can raise interest rates in the short run by tightening monetary policy, but the equilibrium level would end up lower. Or you can get higher interest rates by monetary expansion.
 
-And so after all of this, we get a reasonably nice parsimonious model1
+And so after all of this, we get a reasonably nice parsimonious model of short-run macro!
