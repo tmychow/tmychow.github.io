@@ -5,7 +5,7 @@ date: 2021-03-29
 tags: economics effortposts
 ---
 
-**Description**: Hopefully this will bring you up to speed from knowing nothing about macroeconomics all the way till you know everything you want to know about intermediate short-run macro in a single post. We'll mess around with the notion of goods and money market equilibrium to see where it takes us, borrowing generously from [Miles Kimball](https://blog.supplysideliberal.com/) and [Nick Rowe](https://worthwhile.typepad.com/worthwhile_canadian_initi/nick-rowe/).
+**Description**: Hopefully in a single post this will bring you up to speed from knowing nothing about business cycle macroeconomics till you know everything you want to know about it at an intermediate macro level. We'll mess around with the notion of goods and money market equilibrium to see where it takes us, borrowing generously from [Miles Kimball](https://blog.supplysideliberal.com/) and [Nick Rowe](https://worthwhile.typepad.com/worthwhile_canadian_initi/nick-rowe/). This is probably, even more than [my growth series](https://tmychow.com/blog/2020/07/02/growth-a-primer-in-three-parts), the hardest I've tried at making things accessible and clear, so please do get in touch if you think there are things which are underexplained or could be rewritten.
 
 **Table of Contents**
 
