@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Fallacy of Composition"
-date: 2021-03-28
+date: 2021-03-29
 tags: economics effortposts
 ---
 
