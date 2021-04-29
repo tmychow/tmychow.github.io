@@ -5,7 +5,7 @@ date: 2021-04-23
 tags: economics effortposts
 ---
 
-I like to think about macroeconomics as composed of the equilibrium real world, the equilibrium nominal world and the disequilibrium sticky world a la [Scott Sumner](https://www.themoneyillusion.com/my-vision-of-macro/). If you've followed the blog for a while, you will know that I've written a primer on long-run growth i.e. the equilibrium real world. So this is going to be a similar thing, but about money and its role in business cycles i.e. the equilibrium nominal world and the disequilibrium sticky world.
+I like to think about macroeconomics as composed of the equilibrium real world, the equilibrium nominal world and the disequilibrium sticky world a la [Scott Sumner](https://www.themoneyillusion.com/my-vision-of-macro/). If you've followed the blog for a while, you will know that I've written a primer on long-run growth i.e. the equilibrium real world. So this is going to be a similar thing, but about money and its role in business cycles i.e. the equilibrium nominal world and the disequilibrium sticky world. Throughout all 5 parts, I'll try to blend a mix of economic intuition and mathematical modelling with the broader historical context and empirical data.
 
 In Part I, we will glance at the basics of money: what it is, how it affects the nominal and real worlds, as well as the goals and practice of monetary policy.
 
