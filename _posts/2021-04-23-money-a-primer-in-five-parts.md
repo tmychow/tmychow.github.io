@@ -15,4 +15,4 @@ In Part III, we will go back to the seminal paper regarding monetary policy, Mil
 
 In Part IV, we will take a look at the work by the Princeton Five i.e. the modern conception of how monetary policy works near the zero lower bound.
 
-And finally in Part V, we will examine the idea of nGDP targeting, looking at how the literature has evolved.
+And finally in Part V, we will examine some special ideas of nGDP targeting and the fiscal theory of the price level, looking at how the literature on these two topics has evolved.
