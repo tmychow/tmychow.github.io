@@ -14,11 +14,11 @@ The history of macroeconomic thought is a story of how growth theory, monetary t
 ## Table of Contents
 
 1. [Before Macroeconomics: The Old Classicals](#before-macroeconomics-the-old-classicals)
-2. [Explaining the Great Depression: The Keynesian Revolution](#explaining-the-great-depressio-the-keynesian-revolution)
+2. [Explaining the Great Depression: The Keynesian Revolution](#explaining-the-great-depression-the-keynesian-revolution)
 3. [Unifying Macroeconomics: The Neoclassical Synthesis](#unifying-macroeconomics-the-neoclassical-synthesis)
 4. [Counterrevolution 1: The Monetarists](#counterrevolution-1-the-monetarists)
 5. [Counterrevolution 2: The New Classicals](#counterrevolution-2-the-new-classicals)
-6. [Counterrevolution 3: The Real Business Cycle Theorists](#-counterrevolution-3-the-real-business-cycle-theorists)
+6. [Counterrevolution 3: The Real Business Cycle Theorists](#counterrevolution-3-the-real-business-cycle-theorists)
 7. [Salvaging Keynes: The New Keynesians](#salvaging-keynes-the-new-keynesians)
 8. [Resuscitating Growth: Endogenous Growth Theory](#resuscitating-growth-endogenous-growth-theory)
 9. [Reunifying Macroeconomics: The New Neoclassical Synthesis](#reunifying-macroeconomics-the-new-neoclassical-synthesis)
