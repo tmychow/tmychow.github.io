@@ -5,7 +5,7 @@ date: 2021-05-27
 tags: economics effortposts
 ---
 
-**NB**: The accompanying tweet is here. This has been a long time in the making, and at around 14,500 words, it's turned out way longer than I expected it would be. Apologies in advance for the wordiness, but it was hard to do justice to the breadth of macroeconomics in fewer words than what I've written. The inline text is commentary or gossip about the historical evolution of macroeconomics.
+**NB**: The accompanying tweet is here. This has been a long time in the making, and at around 14,000 words, it's turned out way longer than I expected it would be. Apologies in advance for the wordiness, but it was hard to do justice to the breadth of macroeconomics in fewer words than what I've written. The inline text is commentary or gossip about the historical evolution of macroeconomics.
 
 -----
 
