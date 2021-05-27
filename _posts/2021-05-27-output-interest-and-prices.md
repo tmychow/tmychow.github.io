@@ -78,7 +78,7 @@ Finally, the field of business cycle theory was still rather nascent. Compendium
 >
 > This set up the hodgepodge of business cycle theories to explain how various factors affected the natural rate or the market rate, and thereby caused changes in output, interest and prices. It meant that the government had a role in improving the productive potential of the economy and there was a role for an independent central bank to stabilise prices and the business cycle. But although the degree of formal modelling was limited and this was by no means a complete and consistent explanation of growth, money or business cycles, many important ideas had been set out. And as we will see, these ideas have stood the test of time.
 
-## The Great Depression and the Keynesian Revolution
+## Explaining The Great Depression: The Keynesian Revolution
 
 The Great Depression would shake this Old Classical approach to its core, catalysing the Keynesian revolution and heralding the beginnings of macroeconomics as a unified and coherent field. Although the Old Classicals were well-aware of the potential for business cycle fluctuations, the underlying philosophy remained one of equilibration. The depth and persistence of the Great Depression meant that many felt this process of seeing economies as naturally returning to its efficient equilibrium as unsatisfying, especially because so much of it came from ad hoc suggestions as opposed to a unified framework. Indeed, Keynes had declared in his 1923 *Tract* that "in the long run, we are all dead. Economists set themselves too easy, too useless a task, if in tempestuous seasons they can only tell us that when the storm is long past the ocean is flat again".
 
