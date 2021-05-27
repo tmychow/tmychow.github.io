@@ -89,11 +89,13 @@ Unfortunately, Keynes's text is verbose and it is consequently difficult to pars
 Savings are an increasing function of output, since people tend to save more their incomes are larger. "The amount of investment ... depends on the rate of interest" according to Hicks, since a lower real interest rate makes it cheaper to borrow to invest. The preference for liquidity (or money) is increasing in nominal output and decreasing in the interest rate (for the same reasons as in the Cambridge equation of exchange), while the money supply is just that. Many of these ideas are not new - indeed, the disagreements between Old Classical monetary theorists were precisely about how to reconcile the fact that the interest rate was determined both in the goods and the money market. Hume had focused on the goods market in terms of loanable funds, Fisher had directed his attention to the time preference explanation in the money market, while Wicksell had argued for two interest rates. In this respect, the key Keynesian insight was the notion of simultaneous determination in a system of two equations. That is to say, because both real output and real interest rates were involved in the two equations, both would adjust simultaneously in this system of two equations to equilibrate investment to be equal to savings and liquidity preference to be equal to the money supply.
 
 $$ S(Y) = I(r) $$
+
 $$ M = L(PY,r) $$
 
 Notice that it is possible to rearrange the first equation, since savings are simply total output minus the consumption of individuals $C(Y)$ and the government's net spending $T-G$ i.e. taxes minus government expenditure. And it's possible to rearrange the second equation by looking at real money balances instead of nominal money balances.
 
 $$ Y = C(Y) + I(r) + (G-T) $$
+
 $$ \frac{M}{P} = L(Y,r) $$
 
 Suppose there were an adverse shock to investment as in a recession, due to pessimistic expectations of the future. Keynes, rightly or wrongly, characterised the Old Classical position as one where the real interest rate would fall to equilibrate and ensure real output stayed at its original level. By contrast, he argued that because the interest rate was equilibrating the money market, real output would be the variable that adjusts and falls. One response to this would be to increase the money supply. This would mean that given the preference for the liquidity stays the same, people would put this money into interest-bearing assets, lowering the real interest rate. As such, there would be a rise in investment and real output, counteracting the effects of the recession. But if interest rates were at 0 or if investment wasn't very interest-elastic, one might struggle to induce a rise in investment via monetary expansion. It is in those circumstances that Keynes pushed for fiscal policy, raising net government spending $G-T$ directly to prevent real output from falling. In particular, he posited in *The General Theory* that he expected "the State, which is in a position to calculate the marginal efficiency of capital-goods on long views and on the basis of the general social advantage, taking an ever greater responsibility for directly organising investment".
@@ -125,8 +127,11 @@ Meanwhile, the Smithian invisible hand had been formalised in microeconomics by 
 So what was happening in growth theory during all of this? Although the Old Classicals had already set up an explanation of how the factors of production fed into the long-run productive potential of an economy, they did not have a clear model of the dynamics of economic growth over time. The Keynesian theory of growth was put forward by Roy Harrod in his 1939 "An Essay in Dynamic Theory" as well as Evsey Domar in his 1946 "Capital Expansion, Rate of Growth and Employment". The Harrod-Domar model assumed a production function that only includes capital and has the marginal product of capital as constant - as such, capital is fixed proportion of real output. The capital stock depends upon new investment and what is left of the capital stock after depreciation. Investment is equal to savings, which is taken as a fixed proportion of income.
 
 $$ Y_t = F(K_t) $$
+
 $$ K_t = \frac{Y_t}{MPK} $$
+
 $$ K_{t+1} = I_t + (1-\delta)K_t $$
+
 $$ I_t = S_t = sY_t $$
 
 What they found was that this implied the growth rate of output was given by the savings rate, the marginal product of capital and the depreciation rate. Although this offered plausible policy prescriptions for increasing the growth rate, it also had a deeply Keynesian insight regarding the long run. If the population grew at a fixed rate $n$, the possibility of full employment would be an entirely knife-edge situation, since $n>g$ would imply that the population is growing faster than real output, meaning that there was no tendency for reverting to full employment.
@@ -136,9 +141,13 @@ $$ g = \frac{Y_{t+1} - Y_t}{Y_t} = sMPK - \delta $$
 And so in 1956, Robert Solow and Trevor Swan wrote "A Contribution to the Theory of Economic Growth" and "Economic Growth and Capital Accumulation" respectively. Their Solow-Swan model of growth relaxed a range of assumptions that the Harrod-Domar model had depended upon: it included labour and technology as factors of production, it set the factors of production as having decreasing rather than constant marginal products and it did not force the capital-ouput ratio to be fixed. It kept the process of capital accumulation, while also incorporating the growth of the population and technology over time. The Cobb-Douglas functional form of this model is given below.
 
 $$ Y = K^\alpha (AL)^{1-\alpha} $$
+
 $$ K_{t+1} = I_t + (1-\delta)K_t $$
+
 $$ I_t = S_t = sY_t $$
+
 $$ L_{t+1} = (1+n) L_t $$
+
 $$ A_{t+1} = (1+g) A_t $$
 
 The result was that, because the factors of production had diminishing marginal products, there was a steady state level of output per capita $y^\ast$ which the economy would converge to. In the long run, the growth rate of real output $\dot{y}^\ast$ would be solely determined by the growth rate of technology $g$, which is also known was Total Factor Productivity. This was a powerful rejoinder against the Harrod-Domar model - not only did it better track the six stylised facts about growth which Nicholas Kaldor had proposed in his 1957 "A Model of Economic Growth", it did not have weird knife edge conditions and it did not imply the absurd claim that it was possible to perpetually achieve economic growth by raising the savings rate. Later on, the combination of Frank Ramsey's 1928 "A Mathematical Theory of Saving", David Cass's 1965 "Optimum Growth in an Aggregative Model of Capital Accumulation" and Tjalling Koopmans's 1965 "On the Concept of Optimal Economic Growth" would provided a microfounded version of the Solow model by explaining how the savings rate was determined as opposed to assuming it was a fixed exogenous value. In any case, the Solow model and its microfounded cousin of the Ramsey-Cass-Koopmans model would become the mainstays of neoclassical growth theory.
@@ -154,8 +163,11 @@ The result was that, because the factors of production had diminishing marginal 
 > The short run was described by a combination of the IS-LM model and the Phillips curve. The main change from the Old Classicals is the fact that we had a clearer sense of the actual equations and of how everything was determined together. But we also lost some insights: the role of expectations in the Phillips curve was de-emphasised, as was the idea of the Wicksellian difference.
 >
 > $$ Y = C(Y) + I(r) + (G-T) $$
+> 
 > $$ \frac{M}{P} = L(Y,r) $$
+> 
 > $$ \pi = P(Y) $$
+> 
 > $$ i = r + \pi $$
 >
 > Regardless, this spurred on the next decade or so of research.
@@ -289,16 +301,21 @@ This benchmark model of monopolistic competition, sticky prices and the Taylor r
 > So on the eve of the financial crisis, we had reached and were building on a new neoclassical synthesis. Compared to the neoclassical synthesis of the 1960s, the main change in the long run was the fact that endogenous growth theory meant we didn't just take TFP growth $g$ as given, but had an explanation for how it occurred. 
 >
 > $$ Y^\ast = F(A,K,L)$$
+> 
 > $$ \dot{y}^\ast = f(g) $$
+> 
 > $$ r^\ast = MPK $$
+> 
 > $$ P^\ast = \frac{MV}{Y} $$
 >
 > In the short-run, the IS-LM-PC model was replaced block by block. The determination of real output is now linked to potential output (as the RBC theorists had reminded us of), expectations of output (as the monetarists had noted with the permanent income hypothesis) and the Wicksellian difference. The real interest rate is set by central banks based on a Taylor rule (as proposed by the New Keynesians). And the price setting equation takes on a New Classical flavour, being set as a function of expected inflation, the output gap and random shocks.
 >
 > $$ Y = G(Y^\ast,E(Y),r-r^\ast) $$
+> 
 > $$ r = L(r^\ast,Y-Y^\ast,\pi-\pi^\ast) $$
 >
 > $$ \pi = P(E(\pi),Y-Y^\ast,v)$$
+> 
 > $$ i = r + \pi $$
 
 ## This Post Takes the Old Classicals Seriously
