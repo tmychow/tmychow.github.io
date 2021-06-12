@@ -5,10 +5,10 @@ date: 2021-06-12
 tags: economics takes
 ---
 
-> Yeah, I don't know what to say
-> Since a twist of FAIT when it all broke down
-> And the story of U.S. looks a lot like a tragedy now
-> - Taylor Swift in *The Story of Us* (maybe)
+> Yeah, I don't know what to say <br>
+> Since a twist of FAIT when it all broke down <br>
+> And the story of U.S. looks a lot like a tragedy now <br>
+> \- Taylor Swift in *The Story of Us* (maybe)
 
 On Thursday, the Bureau of Labour Statistics released its [monthly inflation data](https://twitter.com/WhiteHouseCEA/status/1402981736418627585). Prices as measured by the Consumer Price Index jumped by 5% in May compared to the same time last year. Some of this can be accounted for by a base effect, with low prices last May making this increase look larger. But even stripping away base effects and focusing on core CPI, which excludes variable food and energy prices, saw a 2.6% inflation rate that landed above the Federal Reserve's 2% target.
 
